@@ -1,0 +1,1097 @@
+3. Güvenli Veri Toplama ve Çıkarma
+
+3.1 Planlama ve Hazırlık
+3.1.1 Araştırmanın Amaçları ve Kapsam Tanımı
+
+    Paydaş İstişaresi: Soruşturmanın hedeflerini ve kapsamını tanımlamak için hukuk müşaviri, uyum görevlileri ve olay müdahale ekibi üyeleri gibi ilgili paydaşlarla görüşün.
+    Hedef Hizalama: Soruşturma hedefleri ile kurumun mevzuata uyum, veri koruma ve risk azaltma gibi genel hedefleri arasında uyum sağlayın.
+    Kapsam Netleştirme: Dahil edilecek cihaz türleri, veri kaynakları ve zaman dilimleri de dahil olmak üzere incelemenin sınırlarını ve kısıtlamalarını netleştirin.
+
+3.1.1.1 İlk Vaka Değerlendirmesi
+
+    Vaka Geçmişi: İddia edilen suçun niteliği, ilgili taraflar ve herhangi bir ön bulgu veya kanıt dahil olmak üzere soruşturma altındaki olay veya vaka hakkında ilgili arka plan bilgilerini toplayın.
+    Müşteri Gereksinimleri: Soruşturmaya ilişkin hedeflerini, beklentilerini ve önceliklerini anlamak için müşteriye veya ilgili paydaşlara danışın, temel çıktıları, son teslim tarihlerini ve bütçe kısıtlamalarını netleştirin.
+
+3.1.1.1.1 Vaka Geçmişinin Toplanması
+
+    Olay Açıklaması: İddia edilen suçun niteliği, olayı çevreleyen koşullar ve ilgili arka plan bağlamı da dahil olmak üzere, soruşturma altındaki olay veya vaka hakkında ayrıntılı bilgi toplayın.
+    Zaman Çizelgesi Oluşturma: Olayla ilgili olayların bir zaman çizelgesini oluşturun, önemli faaliyetleri, zaman damgalarını ve ilgili olaya giden ve onu takip eden eylem sırasını belgeleyin.
+
+3.1.1.1.2 Paydaş İstişaresi
+
+    Müşteri Katılımı: Müvekkilin veya ilgili paydaşların bakış açısını, hedeflerini ve soruşturmadan beklentilerini anlamak, endişeleri, öncelikleri ve arzu ettikleri sonuçlar hakkında bilgi toplamak için onlarla iletişim kurun.
+    Hukuk Müşavirine Danışma (Varsa): Soruşturmayla ilgili yasal hususları, hakları ve yükümlülükleri açıklığa kavuşturmak, yasal gereklilikler ve usul yönergeleriyle uyumluluğu sağlamak için hukuk müşavirine veya temsilcilerine danışın.
+
+3.1.1.1.3 Kanıt Ön İncelemesi
+
+    Mevcut Kanıtlar: Olay raporları, tanık ifadeleri, dijital eserler ve ilgili belgeler dahil olmak üzere müşteri veya diğer kaynaklar tarafından sağlanan her türlü ön kanıt veya belgeyi inceleyin.
+    Uygunluk Değerlendirmesi: Mevcut kanıtların soruşturma hedefleriyle ilgisini ve önemini değerlendirin, potansiyel ipuçlarını, odaklanma alanlarını ve bilgi boşluklarını belirleyin.
+
+3.1.1.1.4 Vaka Karmaşıklık Analizi
+
+    Karmaşıklık Tespiti: İddia edilen suçun niteliği, dijital kanıtların hacmi ve çeşitliliği, birden fazla tarafın katılımı ve ilgili teknik zorluklar gibi faktörlere dayalı olarak davanın karmaşıklık düzeyini değerlendirin.
+    Kaynak Tahsisi Değerlendirmesi: Personel uzmanlığı, özel ekipman ve analitik araçlar da dahil olmak üzere vakanın karmaşıklığını etkili bir şekilde ele almak için gereken kaynakları göz önünde bulundurun.
+
+3.1.1.1.5 Risk Tanımlaması
+
+    Risk Değerlendirmesi: Veri gizliliği endişeleri, yasal belirsizlikler, teknik sınırlamalar veya kaynak kısıtlamaları gibi soruşturmayla ilgili potansiyel riskleri ve zorlukları belirleyin.
+    Etki Analizi: Belirlenen risklerin soruşturma sonuçları, paydaşlar ve kurumsal çıkarlar üzerindeki potansiyel etkisini analiz edin ve buna göre risk azaltma stratejilerine öncelik verin.
+
+3.1.1.1.6 Vaka Önceliklendirmesi
+
+    Öncelik Belirleme: Yasal sonuçlar, soruşturmanın önemi, aciliyet ve paydaşlar veya kurumsal operasyonlar üzerindeki potansiyel etki gibi faktörlere dayalı olarak vakanın öncelik düzeyini belirleyin.
+    Kaynak Tahsisi Hizalaması: Kaynak tahsisi kararlarını vaka önceliklendirmesi ile uyumlu hale getirerek yüksek öncelikli vakaların uygun ilgiyi, kaynakları ve yönetim gözetimini almasını sağlayın.
+
+3.1.1.1.7 Dokümantasyon
+
+    İlk Vaka Değerlendirme Raporu: İlk vaka değerlendirmesinin bulgularını, vaka geçmişi, paydaş girdisi, kanıt incelemesi, karmaşıklık analizi, risk tanımlaması, vaka önceliklendirmesi ve kaynak tahsisi hususları gibi temel ayrıntıları özetleyen resmi bir yazılı raporda belgeleyin.
+    Rapor Dağıtımı: İlk vaka değerlendirme raporunu müvekkiller, yasal temsilciler, soruşturma ekibi üyeleri ve yönetim dahil olmak üzere ilgili paydaşlara dağıtarak soruşturma için bilinçli karar alma ve planlamayı kolaylaştırın.
+
+3.1.1.2 Hedef Oluşturma
+
+    Hedef Belirleme: İlk vaka değerlendirmesine dayalı olarak belirli soruşturma hedeflerini ve amaçlarını tanımlayın, adli inceleme yoluyla ele alınacak birincil soruları veya sorunları belirleyin.
+    Bilgi Gereksinimleri: Elektronik belgeler, iletişim kayıtları, sistem günlükleri ve diğer ilgili veri kaynakları dahil olmak üzere soruşturma hedeflerini desteklemek için gereken dijital kanıt türlerini belirleyin.
+
+3.1.1.2.1 İlk Vaka Değerlendirmesinin Gözden Geçirilmesi
+
+    Değerlendirme Bulguları: Vaka geçmişi, paydaş girdisi, kanıt incelemesi, karmaşıklık analizi, risk tanımlaması ve vaka önceliklendirmesi dahil olmak üzere ilk vaka değerlendirmesinden elde edilen bulguları gözden geçirerek hedef belirleme konusunda bilgilendirin.
+    Belirlenen Zorluklar: İlk vaka değerlendirmesi sırasında tespit edilen ve soruşturma hedeflerinin oluşturulmasını etkileyebilecek tüm zorlukları, kısıtlamaları veya bilgi boşluklarını tanımlayın.
+
+3.1.1.2.2 Hedef Belirleme
+
+    Amaç Tanımı: Soruşturmanın amacını ve kapsayıcı hedefini tanımlayın, adli inceleme yoluyla ulaşılmak istenen sonuçları ve hedefleri netleştirin.
+    Spesifik Hedefler: Soruşturma hedefini, ilk vaka değerlendirmesi sırasında belirlenen kilit soruları, sorunları veya endişe alanlarını ele alan belirli, ölçülebilir hedeflere ayırın.
+
+3.1.1.2.3 Bilgi Gereksinimleri
+
+    Veri Kaynaklarının Belirlenmesi: Elektronik belgeler, iletişim kayıtları, sistem günlükleri, meta veriler ve diğer ilgili veri kaynakları dahil olmak üzere soruşturma hedeflerini desteklemek için gereken dijital kanıt türlerini belirleyin.
+    Kanıt Kriterleri: Yasal standartlar ve soruşturma gereklilikleri ile uyumu sağlayarak soruşturma hedefleri ile ilgili olarak dijital kanıtların uygunluğunu, güvenilirliğini ve kabul edilebilirliğini değerlendirmek için kriterler oluşturun.
+
+3.1.1.2.4 Kapsam Tanımının Hizalanması
+
+    Kapsam Entegrasyonu: Araştırma hedefleri ile araştırmanın tanımlanan kapsamı arasında uyumun sağlanması ve hedeflerin kapsam tanımı sırasında belirlenen parametreler ve sınırlar dahilinde gerçekleştirilebilir olduğunun doğrulanması.
+    Kapsam Genişletme Hususları: Hedef belirleme sırasında ortaya çıkabilecek yeni kanıt keşifleri, ilave ipuçları veya paydaş önceliklerinin değişmesi gibi potansiyel kapsam genişletme faktörlerini göz önünde bulundurun ve hedefleri buna göre ayarlayın.
+
+3.1.1.2.5 İşbirliği ve Girdi
+
+    Paydaş İstişaresi: Önerilen soruşturma hedefleri hakkında girdi ve geri bildirim almak için müşteriler, yasal temsilciler, soruşturma ekibi üyeleri ve konu uzmanları dahil olmak üzere ilgili paydaşlarla iletişim kurun.
+    İşbirliğine Dayalı Karar Alma: Soruşturma hedeflerinin vakaya dahil olan tüm paydaşların kolektif anlayışlarını, bakış açılarını ve uzmanlıklarını yansıtmasını sağlamak için işbirliğine dayalı karar alma süreçlerini teşvik edin.
+
+3.1.1.2.6 Dokümantasyon
+
+    Amaç Beyanı: Formüle edilmiş araştırma hedeflerini, tüm paydaşların başvurması için araştırmanın amacını, kapsamını ve istenen sonuçlarını ifade eden açık, özlü ve eyleme geçirilebilir bir ifadeyle belgeleyin.
+    Amaç Gerekçesi: Belirlenen zorlukları nasıl ele aldıklarını, paydaş ihtiyaçlarını nasıl karşıladıklarını ve yasal ve düzenleyici gerekliliklerle nasıl uyum sağladıklarını açıklayarak seçilen araştırma hedefleri için bir gerekçe veya gerekçe sağlayın.
+
+3.1.1.2.7 Onay ve İmza-Off
+
+    Paydaş Onayı: Adli faaliyetlere başlamadan önce soruşturma hedefleri üzerinde mutabık kalındığını teyit etmek için müşteriler, yasal temsilciler, soruşturma ekibi üyeleri ve yönetim dahil olmak üzere ilgili paydaşlardan onay ve imza alın.
+    Onayın Belgelendirilmesi: Paydaşların mutabakatının ve tanımlanan soruşturma hedeflerine bağlılığının resmi bir kaydını tutarak soruşturma hedeflerinin onayını ve imzalanmasını yazılı olarak belgeleyin.
+
+3.1.1.3 Kapsam Tanımı
+
+    Kapsam Sınırlandırması: İnceleme kapsamının sınırlarını ve parametrelerini tanımlayın, incelenecek cihaz, sistem ve veri kaynaklarının türlerinin yanı sıra herhangi bir sınırlama veya istisnayı belirtin.
+    Kapsam Genişletme Hususları: Yeni kanıt keşifleri, ek şüpheliler veya ipuçları ya da gelişen soruşturma öncelikleri gibi potansiyel kapsam genişletme faktörlerini öngörün ve gerektiğinde kapsam ayarlaması için mekanizmalar oluşturun.
+
+3.1.1.3.1 Soruşturma Hedeflerinin Gözden Geçirilmesi
+
+    Hedef Uyumu: Formüle edilmiş araştırma hedeflerini, araştırmanın tanımlanmış kapsamı dahilinde açık, spesifik ve ulaşılabilir olduklarından emin olmak için gözden geçirin.
+    Hedef İyileştirme: Paydaş beklentileriyle uyumu sağlamak için belirsizlikleri veya tutarsızlıkları açıklığa kavuşturarak, incelemeye dayalı olarak araştırma hedeflerini gerektiği şekilde düzeltin.
+
+3.1.1.3.2 Kapsam Sınırlandırması
+
+    Sınır Oluşturma: Adli incelemeye dahil edilecek veya hariç tutulacak cihaz, sistem ve veri kaynağı türlerini belirterek soruşturma kapsamının sınırlarını ve parametrelerini tanımlayın.
+    Kapsam Bileşenleri: Hedef cihazlar, ilgili zaman dilimleri, coğrafi konumlar ve analiz edilecek belirli veri türleri veya kategorileri gibi soruşturma kapsamının bileşenlerini tanımlayın.
+
+3.1.1.3.3 Veri Kaynaklarının Tanımlanması
+
+    Dijital Kanıt Kaynakları: Bilgisayar sistemleri, mobil cihazlar, bulut depolama, ağ günlükleri ve çevrimiçi hesaplar dahil olmak üzere soruşturma hedefleriyle ilgili dijital kanıt kaynaklarının türlerini belirleyin.
+    Veri Kullanılabilirliği Değerlendirmesi: Veri saklama politikaları, erişim izinleri ve adli tıp araçlarıyla teknik uyumluluk gibi faktörleri göz önünde bulundurarak dijital kanıt kaynaklarının kullanılabilirliğini ve erişilebilirliğini değerlendirin.
+
+3.1.1.3.4 İnceleme Yöntem ve Teknikleri
+
+    Adli İnceleme Stratejileri: Soruşturma hedeflerine ve dijital delil kaynaklarının özelliklerine göre kullanılacak uygun inceleme yöntem ve tekniklerinin belirlenmesi.
+    Adli Araç Seçimi: Tanımlanan kapsam dahilinde dijital delilleri elde etmek, analiz etmek ve yorumlamak için uygun olan adli araçları ve yazılım uygulamalarını seçmek ve yapılandırmak.
+
+3.1.1.3.5 Yasal ve Düzenleyici Kısıtlamalar
+
+    Yasal Analiz: Veri gizliliği yasaları, arama ve el koyma gereklilikleri veya delil kabul edilebilirlik standartları gibi soruşturmanın kapsamını etkileyebilecek yasal veya düzenleyici kısıtlamaları belirlemek için yasal bir analiz yapın.
+    Uyumluluk Güvencesi: Soruşturma kapsamının yasal ve düzenleyici gerekliliklerle uyumlu olduğundan emin olun, adli incelemeler yapmadan önce yasaların gerektirdiği şekilde gerekli izinleri, mahkeme kararlarını veya onay formlarını alın.
+
+3.1.1.3.6 Kaynak Tahsisi
+
+    Kaynak Değerlendirmesi: Personel uzmanlığı, ekipman, yazılım araçları ve bütçe tahsisleri dahil olmak üzere soruşturma kapsamını desteklemek için gereken kaynakları değerlendirin.
+    Kaynak Mevcudiyeti Kontrolü: Kaynak tahsisi kararlarını etkileyebilecek her türlü kısıtlama veya sınırlamayı belirleyerek, tanımlanan kapsam dahilinde soruşturmayı yürütmek için gereken kaynakların mevcudiyetini belirleyin.
+
+3.1.1.3.7 Risk Azaltma Stratejileri
+
+    Risk Tanımlama: Teknik karmaşıklıklar, veri hacmi, kaynak kısıtlamaları veya yasal belirsizlikler gibi araştırma kapsamıyla ilişkili potansiyel risklerin ve zorlukların belirlenmesi.
+    Risk Azaltma Planlaması: Belirlenen riskleri ele almak, bunların soruşturma sonuçları üzerindeki etkisini en aza indirmek ve adli tıp faaliyetlerinin başarılı bir şekilde yürütülmesini sağlamak için risk azaltma stratejileri ve acil durum planları geliştirin.
+
+3.1.1.3.8 Dokümantasyon
+
+    Kapsam Beyanı: Tanımlanan araştırma kapsamını, tüm paydaşların başvurması için araştırmanın sınırlarını, parametrelerini ve bileşenlerini özetleyen resmi bir yazılı beyanda belgeleyin.
+    Kapsam Gerekçesi: Seçilen araştırma kapsamının araştırma hedefleri, yasal gereklilikler, kaynak kısıtlamaları ve risk değerlendirmeleri ile nasıl uyumlu olduğunu açıklayan bir gerekçe veya gerekçe sağlayın.
+
+3.1.1.4 Yasal ve Düzenleyici Hususlar
+
+    Yasal Analiz: Dijital kanıtların toplanması, korunması ve analizini düzenleyen ilgili yasalara, yönetmeliklere ve mahkeme içtihatlarına uyulmasını sağlayarak soruşturma hedeflerinin ve kapsamının yasal ve düzenleyici sonuçlarını değerlendirin.
+    Kanıt Kabul Edilebilirliği: Alaka düzeyi, güvenilirlik, özgünlük ve gözetim zinciri gereklilikleri gibi faktörleri göz önünde bulundurarak yasal işlemlerde dijital kanıtların kabul edilebilirlik kriterlerini değerlendirin.
+
+3.1.1.4.1 Yasal Çerçeve Analizi
+
+    Yargı Yetkisi Değerlendirmesi: Olayın yeri, ilgili tarafların uyruğu ve ilgili yasaların yetki alanı gibi faktörleri göz önünde bulundurarak soruşturmayı yöneten geçerli yasal yetki alanlarını belirleyin.
+    Yasal Araştırma: Tanımlanan yetki alanları dahilinde dijital adli tıp soruşturmaları için geçerli olan ilgili kanunları, yönetmelikleri, tüzükleri ve yasal emsalleri belirlemek ve anlamak için kapsamlı bir araştırma yapın.
+
+3.1.1.4.2 Veri Gizliliği ve Koruma Kanunları
+
+    Veri Gizliliği Analizi: Veri gizliliği yasalarının ve yönetmeliklerinin dijital kanıtların toplanması, işlenmesi ve analizi üzerindeki etkilerini değerlendirin ve veri koruma, gizlilik ve bireysel gizlilik hakları ile ilgili gerekliliklere uyulmasını sağlayın.
+    GDPR Uyumluluğu (Uygulanabilirse): Özellikle adli soruşturmalar sırasında kişisel verilerin işlenmesi ve aktarılması ile ilgili olarak Genel Veri Koruma Yönetmeliği (GDPR) veya eşdeğer veri gizliliği yasalarına uygunluğu değerlendirin.
+
+3.1.1.4.3 Arama ve El Koyma Prosedürleri
+
+    Yasal Yetkilendirme Gereklilikleri: Adli incelemeler yapmak, dijital kanıtlara el koymak ve elektronik cihazlara erişmek için gerekli arama emirleri, mahkeme kararları veya diğer yetki biçimlerini almak için yasal gereklilikleri belirleyin.
+    Gözetim Zincirine Bağlılık: Dijital kanıtlara el koyarken ve kullanırken gözetim zinciri prosedürlerine uyulmasını sağlamak, yasal işlemlerde kabul edilebilirliği desteklemek için kanıtların gözetimi, kontrolü ve aktarımına ilişkin belgeleri muhafaza etmek.
+
+3.1.1.4.4 Kanıt Kabul Edilebilirlik Standartları
+
+    Kanıt Kabul Edilebilirlik Kriterleri: Alaka kuralları, özgünlük, güvenilirlik ve kulaktan dolma istisnalar da dahil olmak üzere yasal işlemlerde dijital kanıtlar için geçerli olan kanıt kabul edilebilirlik standartlarını öğrenin.
+    Adli En İyi Uygulamalara Uyumluluk: Dijital kanıtların mahkemede kabul edilebilirliğini ve güvenilirliğini artırmak için adli inceleme metodolojilerinin ve tekniklerinin sektördeki en iyi uygulamalara ve standartlara uygun olduğundan emin olun.
+
+3.1.1.4.5 Ayrıcalıklı Bilgilerin Korunması
+
+    Yasal Ayrıcalıkların Tanınması: Ayrıcalıklı bilgiler içerebilecek dijital kanıtları kullanırken avukat-müvekkil ayrıcalığı, iş-ürün ayrıcalığı ve doktor-hasta ayrıcalığı gibi yasal ayrıcalıkları tanıyın ve bunlara saygı gösterin.
+    Gizlilik Tedbirleri: Gizlilik ve ayrıcalıkla ilgili yasal ve etik yükümlülüklere uyulmasını sağlayarak ayrıcalıklı bilgileri yetkisiz ifşa veya erişimden korumak için koruma önlemleri uygulamak.
+
+3.1.1.4.6 Sınır Ötesi Veri Transferi Yasaları
+
+    Veri Transferi Kısıtlamaları: Özellikle dijital kanıtların farklı veri koruma yasaları veya düzenleyici çerçevelere sahip yargı bölgeleri arasında aktarılmasını içeren durumlarda, sınır ötesi veri aktarımlarını düzenleyen yasal kısıtlamaları ve gereklilikleri göz önünde bulundurun.
+    Uluslararası Veri Aktarım Mekanizmaları: Yasal gerekliliklere uyulmasını sağlamak için standart sözleşme maddeleri, bağlayıcı kurumsal kurallar veya veri koruma anlaşmaları gibi uluslararası veri aktarımlarını kolaylaştırmaya yönelik yasal mekanizmaları ve koruma önlemlerini araştırın.
+
+3.1.1.4.7 Dokümantasyon ve Kayıt Tutma
+
+    Yasal Dokümantasyon: Yasal araştırma bulguları, yetkilendirme belgeleri ve uyum kayıtları da dahil olmak üzere soruşturmayla ilgili tüm yasal ve düzenleyici hususların doğru ve kapsamlı bir şekilde belgelendirilmesini sağlayın.
+    Kayıt Saklama: Yasal ve mevzuata uygunluk faaliyetlerinin kayıtlarını uygun bir saklama süresi boyunca saklayın ve denetim izlerini, yasal savunmaları ve mevzuat sorgularını desteklemek için belgelerin kullanılabilirliğini sağlayın.
+
+3.1.1.5 Kaynak Tahsisi
+
+    Kaynak Değerlendirmesi: Personel, ekipman, yazılım araçları ve bütçe tahsisleri de dahil olmak üzere, tanımlanan kapsam dahilinde soruşturma hedeflerine ulaşmak için gereken kaynakları değerlendirin.
+    Kaynak Planlaması: Soruşturmanın başarılı bir şekilde yürütülmesini sağlamak için mevcut kaynakların kullanımını optimize eden, verimlilik, etkinlik ve maliyet hususlarını dengeleyen bir kaynak tahsis planı geliştirin.
+
+3.1.1.6 Risk Değerlendirmesi
+
+    Risk Tanımlama: Veri gizliliği endişeleri, teknik sınırlamalar veya yasal belirsizlikler gibi araştırma hedefleri ve kapsamıyla ilişkili potansiyel riskleri ve zorlukları belirleyin.
+    Risk Azaltma Stratejileri: Belirlenen riskleri ele almak, bunların soruşturma sonuçları üzerindeki etkisini en aza indirmek ve operasyonların sürekliliğini sağlamak için risk azaltma stratejileri ve acil durum planları geliştirin.
+
+3.1.1.7 Dokümantasyon
+
+    Amaç ve Kapsam Belgesi: Soruşturmanın hedeflerini ve kapsamını, tüm paydaşların başvurması için soruşturmanın amaçlarını, parametrelerini ve varsayımlarını açıkça ifade eden resmi bir yazılı belgede belgeleyin.
+    Onay ve İmza: Devam etmeden önce soruşturmanın hedefleri ve kapsamı üzerinde mutabakata varıldığını teyit etmek için müşteriler, yasal temsilciler ve yönetim de dahil olmak üzere ilgili paydaşlardan onay ve imza alın.
+
+3.1.2 Kaynak Tahsisi ve Ekip Oluşturma
+
+    Kaynak Değerlendirmesi: Personel, ekipman, yazılım araçları ve bütçe tahsisleri de dahil olmak üzere soruşturma için gerekli kaynakları değerlendirin.
+    Ekip Oluşturma: Adli analistler, siber güvenlik uzmanları, hukuk danışmanları ve proje yöneticileri gibi farklı beceri ve uzmanlıklara sahip kişilerden oluşan çok disiplinli bir soruşturma ekibi oluşturun.
+    Roller ve Sorumluluklar: Her bir ekip üyesi için özel görevlerini, çıktılarını ve son teslim tarihlerini ana hatlarıyla belirterek net rol ve sorumluluklar tanımlayın.
+
+3.1.3 Yasal ve Mevzuata Uygunluk İncelemesi
+
+    Yasal Danışmanlık: Dijital adli tıp incelemelerini düzenleyen ilgili yasalara, yönetmeliklere ve yasal standartlara uyumu sağlamak için hukuk danışmanından rehberlik alın.
+    Mevzuata Uygunluk: Araştırma sürecini etkileyebilecek veri gizliliği yasaları, endüstri standartları ve sözleşme yükümlülükleri gibi geçerli mevzuat gerekliliklerini belirleyin ve değerlendirin.
+    Uyum Önlemlerinin Belgelendirilmesi: Yasal görüşler, uyumluluk değerlendirmeleri ve risk azaltma stratejileri de dahil olmak üzere, soruşturma boyunca yasal ve mevzuata uygunluğu sağlamak için atılan adımları belgeleyin.
+
+3.1.4 Risk Değerlendirmesi ve Azaltma Planlaması
+
+    Risk Tanımlama: Yasal riskler, teknik karmaşıklıklar, kaynak kısıtlamaları ve itibarla ilgili kaygılar dahil olmak üzere soruşturmayla ilgili potansiyel riskleri ve zorlukları belirleyin.
+    Risk Analizi: Belirlenen risklerin soruşturma hedefleri ve sonuçları üzerindeki olasılığını ve potansiyel etkisini değerlendirin ve önemlerine göre önceliklendirin.
+    Risk Azaltma Stratejileri: Belirlenen riskleri ele almak ve bunların soruşturma süreci ve sonuçları üzerindeki etkisini en aza indirmek için risk azaltma stratejileri ve acil durum planları geliştirin.
+
+3.1.5 Soruşturma Planı Geliştirme
+
+    Metodoloji Seçimi: Dijital Soruşturma Çerçevesi (DIF) veya Dijital Adli Analiz için Bilimsel Yöntem (SMDFA) gibi soruşturmanın hedeflerine, kapsamına ve kısıtlamalarına göre uyarlanmış uygun bir soruşturma metodolojisi veya çerçevesi seçin.
+    Zaman Çizelgesi Oluşturma: Kaynak mevcudiyeti ve dış bağımlılıklar gibi faktörleri göz önünde bulundurarak kilit kilometre taşları, çıktılar ve son tarihler dahil olmak üzere soruşturma için gerçekçi bir zaman çizelgesi oluşturun.
+    Soruşturma Planının Belgelendirilmesi: İnceleme planını, metodolojiyi, hedefleri, kapsamı, zaman çizelgesini, kaynak gereksinimlerini ve risk azaltma stratejilerini özetleyen resmi bir belgede belgeleyin.
+
+3.1.6 İletişim ve Koordinasyon
+
+    Paydaş İletişim Planı: Paydaşları soruşturmanın ilerleyişi, durumu ve sonuçları hakkında bilgilendirmek için düzenli güncellemeler, brifingler ve durum raporları da dahil olmak üzere bir iletişim planı geliştirin.
+    Harici Ortaklarla Koordinasyon: İşbirliğini ve bilgi paylaşımını kolaylaştırmak için gerektiğinde kolluk kuvvetleri, adli hizmet sağlayıcıları ve düzenleyici makamlar gibi harici ortaklarla koordinasyon sağlayın.
+    Dahili Koordinasyon: Dahili paydaşlar ve ekip üyeleri arasında işbirliği ve koordinasyonu teşvik edin, soruşturmaya dahil olan farklı departmanlar ve işlevler arasında uyum ve sinerji sağlayın.
+
+
+3.2 Adli Görüntüleme
+
+3.2.1 Alet Seçimi ve Hazırlığı
+
+    Araç Değerlendirme: Cihaz türleriyle uyumluluk, güvenilirlik ve özellik seti gibi faktörlere dayalı olarak uygun adli görüntüleme araçlarını değerlendirin ve seçin.
+    Araç Yapılandırması: Seçilen görüntüleme araçlarını, görüntüleme seçenekleri, sıkıştırma ayarları ve çıktı formatları dahil olmak üzere soruşturmanın özel gereksinimlerine göre yapılandırın.
+    Doğrulama Testi: Seçilen görüntüleme araçlarının bütünlüğünü ve güvenilirliğini sağlamak için doğrulama testleri gerçekleştirin, doğru ve eksiksiz adli görüntüler oluşturma yeteneklerini doğrulayın.
+
+3.2.1.1 Gereksinim Analizi
+
+    Soruşturma Hedefleri: İlgili cihaz türleri, toplanacak verilerin niteliği ve analizin kapsamı dahil olmak üzere dijital adli tıp soruşturmasının özel hedeflerini ve gereksinimlerini anlayın.
+    Yasal ve Düzenleyici Uyumluluk: Dijital kanıt toplama ve analizini düzenleyen yasal ve düzenleyici gereklilikleri göz önünde bulundurun ve seçilen araçların geçerli yasa ve standartlara uygun olmasını sağlayın.
+    Kaynak Kısıtlamaları: Tahsis edilen kaynaklar dahilinde soruşturma gereksinimlerini karşılayan uygun araçları belirlemek için bütçe sınırlamaları, zaman kısıtlamaları ve mevcut uzmanlık gibi kaynak kısıtlamalarını değerlendirin.
+
+3.2.1.1.1 Paydaş İstişaresi
+
+    Müşteri Katılımı: Dijital adli tıp incelemesi için gereksinimlerini, hedeflerini ve beklentilerini anlamak için müşteri veya ilgili paydaşlarla etkileşim kurun.
+    Gereksinim Belirleme: Soruşturmanın kapsamı, hedefleri, kısıtlamaları ve öncelikleri hakkında detaylı bilgi toplamak için mülakatlar, anketler ve atölye çalışmaları kullanın.
+
+3.2.1.1.2 Soruşturma Hedeflerinin Netleştirilmesi
+
+    Amaç Gözden Geçirmesi: Açıklık, belirginlik ve paydaş ihtiyaçları ile uyumu sağlamak için formüle edilmiş araştırma hedeflerini gözden geçirin.
+    Amaç İyileştirme: Gereksinim analizine dayalı olarak araştırma hedeflerini gerektiği şekilde düzeltin, belirsizlikleri, çelişkileri veya bilgi boşluklarını ele alın.
+
+3.2.1.1.3 Veri Kaynaklarının Belirlenmesi
+
+    Veri Tanımlama: Bilgisayarlar, mobil cihazlar, bulut depolama, e-posta hesapları ve ağ günlükleri dahil olmak üzere soruşturma hedefleriyle ilgili dijital kanıt kaynaklarının türlerini belirleyin.
+    Veri Kullanılabilirliği Değerlendirmesi: Veri saklama politikaları, erişim izinleri ve adli tıp araçlarıyla teknik uyumluluk gibi faktörleri göz önünde bulundurarak dijital kanıt kaynaklarının kullanılabilirliğini, erişilebilirliğini ve güvenilirliğini değerlendirin.
+
+3.2.1.1.4 Yasal ve Düzenleyici Uyumluluk
+
+    Yasal Analiz: Veri gizliliği, elektronik gözetim ve bilgisayar suçları ile ilgili yasalar da dahil olmak üzere soruşturmayı yöneten yasal ve düzenleyici gereklilikleri belirlemek ve anlamak için yasal bir analiz yapın.
+    Uyumluluk Güvencesi: Dijital adli tıp faaliyetlerinin yasal ve düzenleyici standartlara uymasını sağlamak, yasaların gerektirdiği şekilde gerekli izinleri, mahkeme kararlarını ya da onay formlarını almak.
+
+3.2.1.1.5 Kaynak Değerlendirmesi
+
+    Kaynak Değerlendirmesi: Personel uzmanlığı, ekipman, yazılım araçları ve bütçe tahsisleri de dahil olmak üzere soruşturmayı desteklemek için gereken kaynakları değerlendirin.
+    Kaynak Mevcudiyeti Kontrolü: Soruşturmayı etkin bir şekilde yürütmek için gereken kaynakların mevcudiyetini belirleyin ve kaynak tahsisi kararlarını etkileyebilecek her türlü kısıtlama veya sınırlamayı tanımlayın.
+
+3.2.1.1.6 Risk Tanımlaması
+
+    Risk Değerlendirmesi: Veri gizliliği endişeleri, teknik karmaşıklıklar, kaynak kısıtlamaları veya yasal belirsizlikler gibi soruşturmayla ilgili potansiyel riskleri ve zorlukları belirleyin.
+    Risk Azaltma Planlaması: Belirlenen riskleri ele almak, bunların soruşturma sonuçları üzerindeki etkisini en aza indirmek ve operasyonların sürekliliğini sağlamak için risk azaltma stratejileri ve acil durum planları geliştirin.
+
+3.2.1.1.7 Dokümantasyon
+
+    Gereksinim Belgesi: İhtiyaç analizinin bulgularını, paydaş gereksinimleri, araştırma hedefleri, veri kaynaklarının belirlenmesi, yasal ve düzenleyici hususlar, kaynak değerlendirmesi ve risk tanımlaması gibi temel ayrıntıları özetleyen resmi bir yazılı belgede belgeleyin.
+    Belge Onayı: Adli faaliyetlere başlamadan önce soruşturma gereklilikleri üzerinde mutabık kalındığını teyit etmek için müşteriler, yasal temsilciler, soruşturma ekibi üyeleri ve yönetim dahil olmak üzere ilgili paydaşlardan onay ve imza alın.
+
+3.2.1.2 Araç Değerlendirme Kriterleri
+
+    İşlevsellik: Soruşturma hedefleriyle uyumluluğu sağlamak için görüntüleme, veri çıkarma, analiz ve raporlama özellikleri dahil olmak üzere dijital adli tıp araçlarının işlevselliğini ve yeteneklerini değerlendirin.
+    Uyumluluk: Etkili veri toplama ve analizi sağlamak için araçların hedef cihaz platformları, işletim sistemleri, dosya sistemleri ve depolama ortamı türleriyle uyumluluğunu değerlendirin.
+    Kullanım Kolaylığı: Eğitim gereksinimlerini en aza indirmek ve araştırma sırasında verimli iş akışını kolaylaştırmak için araçların kullanıcı arayüzünü, kurulum, yapılandırma ve çalıştırma kolaylığını göz önünde bulundurun.
+
+3.2.1.2.1 İşlevsellik Değerlendirmesi
+
+    Özellik Analizi: Veri toplama, analiz, kurtarma ve raporlama gibi yetenekleri göz önünde bulundurarak dijital adli tıp araçlarının sunduğu işlevselliği ve özellikleri değerlendirin.
+    Araç Uygunluğu: Her bir aracın belirli soruşturma görevleri ve hedefleri için uygunluğunu değerlendirin ve soruşturmanın gereklilikleriyle uyumluluğunu sağlayın.
+
+3.2.1.2.2 Uyumluluk ve Birlikte Çalışabilirlik
+
+    İşletim Sistemi Desteği: Dijital adli bilişim araçlarının Windows, macOS, Linux ve mobil platformlar gibi soruşturmalarda yaygın olarak karşılaşılan çeşitli işletim sistemleri ve dosya sistemleri ile uyumluluğunu belirleyin.
+    Birlikte Çalışabilirlik Değerlendirmesi: Soruşturma iş akışlarına sorunsuz entegrasyonu kolaylaştırmak için araçların diğer adli yazılımlar, donanım cihazları ve veri formatlarıyla birlikte çalışabilirliğini değerlendirin.
+
+3.2.1.2.3 Performans ve Verimlilik
+
+    Hız ve Doğruluk: Büyük hacimli dijital kanıtların verimli ve güvenilir bir şekilde analiz edilmesini sağlamak için dijital adli tıp araçlarının performansını işlem hızı, veri çıkışı ve sonuçların doğruluğu açısından ölçün.
+    Kaynak Kullanımı: Mevcut donanım kaynaklarıyla uyumluluğu sağlamak ve performansı optimize etmek için CPU, bellek ve depolama gereksinimleri dahil olmak üzere araçların kaynak kullanımını değerlendirin.
+
+3.2.1.2.4 Güvenilirlik ve Kararlılık
+
+    Araç Kararlılığı: Adli incelemeler sırasında yazılım çökmeleri, hatalar veya veri bozulması riskini en aza indirerek, çeşitli çalışma koşulları ve ortamları altında dijital adli araçların kararlılığını ve güvenilirliğini değerlendirin.
+    Kalite Güvencesi: Gerçek dünyadaki adli tıp incelemelerinde araçların genel kalitesini ve güvenilirliğini değerlendirmek için satıcı itibarı, ürün incelemeleri ve kullanıcı geri bildirimleri gibi faktörleri göz önünde bulundurun.
+
+3.2.1.2.5 Adli Sağlamlık
+
+    Adli Metodoloji: Dijital adli tıp araçlarının, kanıt bütünlüğünün, gerçekliğinin ve yasal işlemlerde kabul edilebilirliğinin korunmasını sağlayan yerleşik adli tıp metodolojilerine ve en iyi uygulamalara uyduğunu doğrulayın.
+    Gözetim Zinciri Desteği: Araçların adli süreçlerde şeffaflığı ve hesap verebilirliği kolaylaştırarak doğru gözetim zinciri belgelerini ve denetim izlerini muhafaza etme becerisini değerlendirin.
+
+3.2.1.2.6 Kullanıcı Arayüzü ve Kullanılabilirlik
+
+    Sezgisellik: Menüde gezinme, araç düzeni ve görselleştirmeler gibi faktörleri göz önünde bulundurarak dijital adli tıp araçlarının kullanıcı arayüzünü kullanım kolaylığı, sezgisellik ve kullanıcı dostu olma açısından değerlendirin.
+    Eğitim Gereksinimleri: Her bir aracın kullanımıyla ilgili eğitim ve öğrenme eğrisini değerlendirerek araştırmacıların araç kullanımında hızla yetkin hale gelebilmelerini ve verimliliği en üst düzeye çıkarabilmelerini sağlayın.
+
+3.2.1.2.7 Maliyet ve Lisanslama
+
+    Maliyet Analizi: Genel değer teklifini belirlemek için ön lisans ücretleri, bakım maliyetleri ve devam eden destek giderleri dahil olmak üzere dijital adli tıp araçlarının toplam sahip olma maliyetini göz önünde bulundurun.
+    Lisanslama Modeli: Bütçe kısıtlamaları ve tedarik politikaları ile uyum sağlamak için kalıcı lisanslar, abonelik tabanlı modeller ve açık kaynak seçenekleri de dahil olmak üzere araçların lisanslama modelini değerlendirin.
+
+3.2.1.2.8 Dokümantasyon ve Destek
+
+    Dokümantasyon Kalitesi: Etkili araç kullanımı ve sorun gidermeyi kolaylaştırmak için kullanıcı kılavuzları, teknik kılavuzlar ve bilgi tabanları dahil olmak üzere araç belgelerinin kalitesini ve kapsamlılığını değerlendirin.
+    Teknik Destek Kullanılabilirliği: Adli incelemeler sırasında karşılaşılan sorunlara zamanında yardım ve çözüm sağlamak için araç satıcıları tarafından sağlanan teknik destek hizmetlerinin kullanılabilirliğini ve yanıt verebilirliğini değerlendirin.
+
+3.2.1.3 Araç Seçimi
+
+    Pazar Araştırması: Satıcı itibarı, kullanıcı değerlendirmeleri, sektörde tanınırlık ve kurumsal gerekliliklerle uyumluluk gibi faktörleri göz önünde bulundurarak pazar araştırması yapın ve mevcut dijital adli tıp araçlarını inceleyin.
+    Araç Karşılaştırması: Soruşturma gereksinimlerini ve kaynak kısıtlamalarını karşılayan en uygun seçenekleri belirlemek için birden fazla aracın özelliklerini, işlevselliğini, fiyatlandırmasını ve lisans koşullarını karşılaştırın.
+    Satıcı Danışmanlığı: Ürün özelliklerini, lisans anlaşmalarını ve destek hizmetlerini netleştirmek için araç satıcılarına veya temsilcilerine danışın ve araç seçiminde bilinçli karar verilmesini sağlayın.
+
+3.2.1.3.1 Gereksinim Hizalama
+
+    Gereksinim İncelemesi: İhtiyaç analizinden ve araç değerlendirme kriterlerinden elde edilen bulguları gözden geçirerek soruşturma ihtiyaçlarının, hedeflerinin ve dijital adli tıp araçlarının seçim kriterlerinin net bir şekilde anlaşılmasını sağlayın.
+    Hizalama Değerlendirmesi: Araç özellikleri, kabiliyetleri ve analiz aşamasında belirlenen gereksinimler arasındaki uyumu değerlendirin ve soruşturma ihtiyaçlarını en iyi karşılayan araçlara öncelik verin.
+
+3.2.1.3.2 Araç Karşılaştırması
+
+    Özellik Karşılaştırması: Değerlendirme kriterlerine göre kısa listeye alınan dijital adli tıp araçlarının işlevselliğini, performansını ve kullanılabilirliğini karşılaştırın, her aracın güçlü ve zayıf yönlerini ve benzersiz satış noktalarını vurgulayın.
+    Artıları ve Eksileri Analizi: İşlevsellik, uyumluluk, güvenilirlik, kullanılabilirlik, maliyet ve satıcı desteği gibi faktörleri göz önünde bulundurarak her bir aracın artı ve eksilerinin kapsamlı bir analizini yapın.
+
+3.2.1.3.3 Pilot Test
+
+    Araç Değerlendirme Testi: Performanslarını, kullanılabilirliklerini ve soruşturma iş akışlarıyla uyumluluklarını değerlendirmek için seçilen dijital adli tıp araçlarıyla pilot testler veya kavram kanıtlama alıştırmaları yapın.
+    Gerçek Dünya Simülasyonu: Her bir aracın pratik adli incelemelerde ne kadar iyi performans gösterdiğini değerlendirmek için pilot testler sırasında gerçek dünya soruşturma senaryolarını ve kullanım durumlarını simüle edin.
+
+3.2.1.3.4 Paydaş Geri Bildirimi
+
+    Paydaş İstişaresi: Müfettişler, adli analistler, yasal temsilciler ve yönetim de dahil olmak üzere ilgili paydaşlardan pilot test araçlarıyla ilgili deneyimleri ve tercihleri hakkında geri bildirim toplayın.
+    Geri Bildirimin Birleştirilmesi: Paydaşların geri bildirimlerini araç seçim sürecine dahil edin ve aracın kullanılabilirliği, etkinliği ve soruşturma hedeflerini karşılamaya uygunluğu hakkındaki girdileri dikkate alın.
+
+3.2.1.3.5 Maliyet-Fayda Analizi
+
+    Maliyet Değerlendirmesi: Lisanslama ücretleri, bakım maliyetleri, eğitim giderleri ve potansiyel üretkenlik kazanımları veya maliyet tasarrufları dahil olmak üzere her bir dijital adli tıp aracının toplam sahip olma maliyetini analiz edin.
+    Fayda Değerlendirmesi: Her bir aracın işlevsellik, performans, güvenilirlik ve kullanılabilirlik açısından sunduğu faydaları ve değer önerisini ilgili maliyetlere göre değerlendirin.
+
+3.2.1.3.6 Risk Değerlendirmesi
+
+    Risk Tanımlama: Teknik sınırlamalar, uyumluluk sorunları, satıcı güvenilirliği veya gelecekteki destek endişeleri gibi her bir dijital adli tıp aracının kullanımıyla ilişkili potansiyel riskleri ve zorlukları belirleyin.
+    Risk Azaltma Stratejileri: Belirlenen riskleri ele almak için risk azaltma stratejileri ve acil durum planları geliştirin ve seçilen araçların adli tıp soruşturmalarını minimum riskle etkili bir şekilde destekleyebilmesini sağlayın.
+
+3.2.1.3.7 Karar Verme
+
+    Fikir Birliği Oluşturma: Bilinçli bir karara varmak için ilgili tüm taraflardan gelen girdileri dikkate alarak dijital adli tıp araçlarının seçimine ilişkin paydaşlar arasında fikir birliği oluşturulmasını kolaylaştırın.
+    Karar Dokümantasyonu: Karar verme sürecinde şeffaflık ve hesap verebilirlik sağlayarak belirli araçların seçimine ilişkin gerekçe ve gerekçeleri resmi bir yazılı belgede belgelendirin.
+
+3.2.1.3.8 Tedarik ve Uygulama
+
+    Satıcı Bağlılığı: Fiyatlandırma, lisans anlaşmaları ve hizmet seviyesi anlaşmalarını müzakere etmek için araç satıcıları veya tedarikçileri ile iletişime geçerek araç tedariki için uygun şart ve koşulları sağlayın.
+    Uygulama Planlaması: Eğitim, yapılandırma ve mevcut sistemler ve süreçlerle entegrasyon dahil olmak üzere, seçilen dijital adli tıp araçlarının soruşturma iş akışları içinde konuşlandırılması için bir uygulama planı geliştirin.
+
+3.2.1.4 Alım ve Kurulum
+
+    Tedarik Süreci: Kurumsal satın alma politikaları ve prosedürlerini izleyerek ve gerekli onayları alarak seçilen dijital adli tıp araçlarını satın almak için satın alma sürecini başlatın.
+    Kurulum ve Yapılandırma: Seçilen araçları belirlenen adli tıp iş istasyonlarına veya analiz sistemlerine kurun ve yapılandırın, donanım ve yazılım ortamlarıyla uygun kurulum ve uyumluluğu sağlayın.
+    Lisans Aktivasyonu: Soruşturma boyunca yasal ve yetkili kullanımı sağlamak için satıcı talimatlarını ve lisans sözleşmelerini izleyerek seçilen araçlar için yazılım lisanslarını etkinleştirin.
+
+3.2.1.4.1 Tedarik Süreci
+
+    Satıcı İletişimi: Dijital adli tıp araçlarının tedarikine devam etmek, lisans anlaşmalarını, fiyatlandırmayı ve teslimat zaman çizelgelerini netleştirmek için seçilen satıcılarla veya tedarikçilerle iletişimi başlatın.
+    Sözleşme Müzakeresi: Araç alımı için uygun koşulları sağlamak üzere lisans anlaşmaları, destek hizmetleri, garantiler ve ödeme koşulları dahil olmak üzere sözleşme hüküm ve koşullarını müzakere edin.
+
+3.2.1.4.2 Satın Alma Onayı
+
+    Paydaş Onayı: Dijital adli tıp araçlarının satın alımını tamamlamak için yönetim, finans ve hukuk temsilcileri de dahil olmak üzere ilgili paydaşlardan onay alın ve bütçe kısıtlamaları ve tedarik politikaları ile uyum sağlayın.
+    Belgelendirilmiş Yetkilendirme: Satın alma onay sürecini yazılı olarak belgeleyin ve paydaşların mutabakatının ve araç alımı için yetkilendirmenin resmi bir kaydını tutun.
+
+3.2.1.4.3 Lisanslama ve Etkinleştirme
+
+    Lisans Edinme: Satın alınan dijital adli bilişim araçları için yazılım lisanslarını veya aktivasyon anahtarlarını ilgili satıcılardan temin edin, lisans koşullarına ve kullanım kısıtlamalarına uyulmasını sağlayın.
+    Aktivasyon Süreci: Her bir araç için lisansları satıcı talimatlarına göre etkinleştirin, başarılı etkinleştirmeyi doğrulayın ve gerekli tüm özelliklerin ve işlevlerin etkinleştirildiğinden emin olun.
+
+3.2.1.4.4 Kurulum Hazırlığı
+
+    Sistem Gereksinimleri Değerlendirmesi: Mevcut donanım ve yazılım konfigürasyonlarıyla uyumluluğu sağlayarak, dijital adli tıp araçlarını kurmak ve çalıştırmak için satıcılar tarafından belirtilen sistem gereksinimlerini gözden geçirin.
+    Altyapı Hazırlığı: Gerekli donanım kaynaklarının sağlanması, ağ ayarlarının yapılandırılması ve araç dağıtımı için depolama alanı ayrılması dahil olmak üzere altyapıyı araç kurulumu için hazırlayın.
+
+3.2.1.4.5 Araç Kurulumu
+
+    Yazılım Dağıtımı: Satın alınan dijital adli tıp araçlarını belirlenen iş istasyonlarına veya sunuculara satıcının kurulum talimatlarına göre kurun ve önerilen kurulum prosedürlerine uyulmasını sağlayın.
+    Yapılandırma Kurulumu: Veri depolama konumları, kullanıcı erişim kontrolleri ve raporlama şablonları gibi seçenekleri özelleştirerek araç ayarlarını ve tercihlerini soruşturma gereksinimlerine ve kullanıcı tercihlerine göre yapılandırın.
+
+3.2.1.4.6 İş Akışları ile Entegrasyon
+
+    İş Akışı Hizalama: Yeni kurulan dijital adli tıp araçlarını mevcut soruşturma iş akışlarına ve süreçlerine entegre ederek diğer adli tıp yazılımları, donanım cihazları ve veri havuzları ile sorunsuz etkileşim ve veri alışverişi sağlayın.
+    Eğitim ve Alıştırma: Araştırma ekibi üyelerine, araçlarda gezinme, işlevsellik ve en iyi uygulamalar gibi konuları kapsayacak şekilde, kurulu araçları etkin bir şekilde kullanma konusunda eğitim ve alıştırma oturumları sağlayın.
+
+3.2.1.4.7 Test ve Doğrulama
+
+    İşlevsellik Testi: Simüle edilmiş adli tıp senaryolarında işlevselliği, performansı ve güvenilirliği doğrulamak, araçların beklendiği gibi çalışmasını ve soruşturma gereksinimlerini karşılamasını sağlamak için kurulu her aracın kapsamlı testini yapın.
+    Paydaşlar Tarafından Doğrulama: Kurulan araçların kullanıcı beklentilerini karşıladığını ve soruşturma ihtiyaçlarını desteklediğini doğrulamak için adli tıp analistleri, müfettişler ve yasal temsilciler de dahil olmak üzere ilgili paydaşları doğrulama alıştırmalarına dahil edin.
+
+3.2.1.4.8 Dokümantasyon ve Kayıtlar
+
+    Kurulum Dokümantasyonu: Her bir dijital adli tıp aracı için kurulum sürecini, kullanıcıların başvurması için adım adım talimatlar ve yapılandırma ayarları sağlayan ayrıntılı bir kurulum kılavuzu veya el kitabında belgeleyin.
+    Kayıtların Bakımı: Araç edinme, lisanslama, aktivasyon, kurulum ve doğrulama faaliyetlerinin kayıtlarını merkezi bir havuzda tutarak edinme ve kurulum sürecinin şeffaflığını, hesap verebilirliğini ve denetlenebilirliğini sağlayın.
+
+3.2.1.5 Kalibrasyon ve Test
+
+    İşlevsellik Testi: Görüntüleme, veri çıkarma ve analiz gibi temel görevler de dahil olmak üzere düzgün çalışma ve işlevselliği doğrulamak için kurulu araçlar üzerinde işlevsellik testleri gerçekleştirin.
+    Uyumluluk Testi: Farklı ortamlarda etkili veri toplama ve analiz sağlamak için hedef cihazlar, işletim sistemleri ve dosya sistemleri ile araç uyumluluğunu test edin.
+    Kalibrasyon Kontrolleri: Araştırma sırasında doğru ve güvenilir performans sağlamak için araçları ve ekipmanları gerektiği şekilde kalibre edin, kalibrasyon ayarlarını ve doğruluğunu bilinen referans standartlarına göre doğrulayın.
+
+3.2.1.5.1 Ekipman Kalibrasyonu
+
+    Kalibrasyon Gereksinimleri: Adli görüntüleme cihazları, yazma engelleyiciler ve dijital multimetreler gibi dijital adli süreçte kullanılan ve kalibrasyon gerektiren ekipman ve araçları tanımlayın.
+    Kalibrasyon Standartları: Adli incelemelerde doğruluk ve güvenilirliği korumak için kalibrasyonun endüstri standartlarına ve üretici spesifikasyonlarına uygun olarak yapıldığından emin olun.
+
+3.2.1.5.2 Kalibrasyon Prosedürü
+
+    Kalibrasyon Planı Geliştirme: Kalibrasyon sıklığını, kalibrasyon prosedürlerini ve kalibrasyon görevlerini yerine getirmekten sorumlu personeli özetleyen bir kalibrasyon planı geliştirin.
+    Ekipman Hazırlığı: Kalibrasyon işlemine başlamadan önce ekipmanı temizleyerek, inceleyerek ve düzgün çalışmasını sağlayarak kalibrasyon için hazırlayın.
+
+3.2.1.5.3 Test Ortamı Kurulumu
+
+    Test Ortamı Tanımı: Adli test ve doğrulama için kullanılan donanım, yazılım ve ağ altyapısı dahil olmak üzere test ortamını tanımlayın.
+    İzolasyon ve Sınırlama: Devam eden soruşturmalarla kirlenmeyi veya etkileşimi önlemek için test ortamını üretim sistemlerinden ve ağlarından izole etmek için önlemler uygulayın.
+
+3.2.1.5.4 Test Vakası Geliştirme
+
+    Test Senaryosu Tanımlama: Çeşitli araştırma görevlerini ve araç işlevlerini kapsayan, gerçek dünyadaki adli tıp senaryolarını kopyalayan test senaryolarını ve kullanım durumlarını belirleyin.
+    Test Verisi Oluşturma: Adli araçların ve metodolojilerin performansını değerlendirmek için bilinen artefaktları, anormallikleri ve zorlukları içeren test veri setleri ve adli görüntüler oluşturun.
+
+3.2.1.5.5 Test Yürütme
+
+    Test Planı Yürütme: Adli araçların ve prosedürlerin performansını, doğruluğunu ve güvenilirliğini sistematik olarak değerlendirerek test ortamında önceden tanımlanmış test planını ve test senaryolarını yürütün.
+    Veri Toplama: Adli incelemeler sırasında karşılaşılan sorunları, hataları veya tutarsızlıkları belgeleyerek test sırasında veri ve gözlemleri toplayın.
+
+3.2.1.5.6 Analiz ve Doğrulama
+
+    Test Sonuçları Analizi: Adli araçların ve metodolojilerin soruşturma gereksinimlerini karşılamadaki etkinliğini, verimliliğini ve uygunluğunu değerlendirmek için test sonuçlarını ve gözlemleri analiz edin.
+    Paydaşlar Tarafından Doğrulama: Adli analistler, müfettişler ve yasal temsilciler de dahil olmak üzere ilgili paydaşları, kullanıcı ihtiyaçları ve beklentileriyle uyumu sağlamak için test sonuçlarını gözden geçirme ve doğrulama sürecine dahil edin.
+
+3.2.1.5.7 Dokümantasyon ve Raporlama
+
+    Test Raporu Hazırlama: Test sürecini, sonuçları, bulguları ve adli prosedürlerin ve araç kullanımının iyileştirilmesine yönelik önerileri belgeleyen kapsamlı bir test raporu hazırlayın.
+    Önerilerin Uygulanması: Gelecekteki soruşturmalarda adli incelemelerin etkinliğini ve güvenilirliğini artırmak için test bulgularından elde edilen tavsiyelerin uygulanması.
+
+3.2.1.5.8 Sürekli İzleme ve Bakım
+
+    Sürekli İzleme: Ortaya çıkan sorunları, güncellemeleri veya iyileştirmeleri belirlemek ve ele almak için adli araçların ve prosedürlerin sürekli izlenmesi ve değerlendirilmesi için mekanizmalar oluşturun.
+    Bakım Programı: Adli ekipman ve metodolojilerin sürekli doğruluğunu ve güvenilirliğini sağlamak için periyodik kalibrasyon, test ve doğrulama faaliyetleri için bir bakım programı geliştirin.
+
+3.2.1.6 Dokümantasyon
+
+    Araç Envanteri: Referans ve denetim amacıyla satıcı detayları, ürün özellikleri, lisans bilgileri ve kurulum kayıtları dahil olmak üzere seçilen dijital adli tıp araçları hakkında ayrıntılı bilgileri belgeleyin.
+    Konfigürasyon Dokümantasyonu: Adli analiz görevlerinde tekrarlanabilirliği ve sürekliliği kolaylaştırmak için araştırma ortamında kullanılan araç konfigürasyonlarının, ayarlarının ve versiyonlarının dokümantasyonunu muhafaza edin.
+    Eğitim Materyalleri: Seçilen araçlar için eğitim materyalleri ve kullanıcı kılavuzları geliştirin, etkin araç kullanımı ve işletimi için soruşturma ekibi üyelerine rehberlik ve referans materyalleri sağlayın.
+
+3.2.1.6.1 Dokümantasyon Planı Geliştirme
+
+    Kapsam Tanımı: Oluşturulacak belge türlerini, amaçlarını ve hedeflenen kitleyi belirleyerek dokümantasyon çalışmasının kapsamını ve hedeflerini tanımlayın.
+    Dokümantasyon Standartları: Tüm dokümantasyon eserlerinde tutarlılık ve netlik sağlamak için biçimlendirme, organizasyon ve stil kuralları dahil olmak üzere dokümantasyon standartları ve kılavuzları oluşturun.
+
+3.2.1.6.2 Belge Tanımlama ve Sınıflandırma
+
+    Belge Envanteri: Prosedürel belgeler, teknik şartnameler, eğitim materyalleri ve vaka raporları dahil olmak üzere dijital adli tıp süreci için gerekli tüm dokümantasyon eserlerinin bir envanterini çıkarın.
+    Belge Sınıflandırması: Dokümantasyonu içerik, amaç ve adli sürecin farklı aşamalarıyla ilgisine göre sınıflandırarak gerektiğinde ilgili bilgilere kolay erişim ve bu bilgilerin geri alınmasını sağlayın.
+
+3.2.1.6.3 Belge Oluşturma
+
+    İçerik Geliştirme: Bilgileri etkili ve kapsamlı bir şekilde iletmek için metin, resim, diyagram ve ekran görüntüleri dahil olmak üzere tanımlanan her belge türü için belge içeriği oluşturun.
+    İşbirliğine Dayalı Yazma: Farklı uzmanlıklardan yararlanmak ve doğruluk ve eksiksizliği sağlamak için belge oluşturmada konu uzmanları, adli analistler ve diğer paydaşlar arasında işbirliğini teşvik edin.
+
+3.2.1.6.4 Dokümantasyon İnceleme ve Onay
+
+    Akran Değerlendirmesi: Hataları, tutarsızlıkları ve iyileştirilmesi gereken alanları belirlemek için belge taslaklarının akran değerlendirmelerini yapın ve belge kalitesini artırmak için gözden geçirenlerden gelen geri bildirimleri birleştirin.
+    Paydaş Onayı: Adli faaliyetlerde kullanılacak belgelere son halini vermek için yönetim, yasal temsilciler ve kalite güvence personeli de dahil olmak üzere ilgili paydaşlardan onay alın.
+
+3.2.1.6.5 Belge Dağıtımı ve Erişim Kontrolü
+
+    Dağıtım Planı: Adli analistler, müfettişler, yasal temsilciler ve yönetim dahil olmak üzere ilgili tüm paydaşlara dokümantasyon dağıtımı için bir plan geliştirin ve güncel bilgilere zamanında erişim sağlayın.
+    Erişim Kontrol Mekanizmaları: Hassas veya gizli belgelere erişimi kısıtlamak için erişim kontrolleri ve izinleri uygulayın ve yalnızca yetkili kişilerin belge içeriğini görüntüleyebilmesini veya değiştirebilmesini sağlayın.
+
+3.2.1.6.6 Sürüm Kontrolü ve Değişiklik Yönetimi
+
+    Versiyonlama Sistemi: Belgelerdeki değişiklikleri, revizyonları ve güncellemeleri izlemek için bir sürüm kontrol sistemi uygulayın, denetlenebilirlik ve hesap verebilirlik için belge sürümlerinin geçmişini koruyun.
+    Değişim Yönetimi Süreci: Belgelerdeki güncellemeleri, değişiklikleri ve revizyonları yönetmek için bir değişiklik yönetimi süreci oluşturun ve değişikliklerin uygulanmadan önce belgelenmesini, gözden geçirilmesini ve onaylanmasını sağlayın.
+
+3.2.1.6.7 Belge Saklama ve Arşivleme
+
+    Saklama Politikası: Yasal, düzenleyici ve operasyonel gerekliliklere dayalı olarak farklı belge türleri için saklama sürelerini belirleyen bir belge saklama politikası tanımlayın.
+    Arşivleme Prosedürleri: Eski veya güncelliğini yitirmiş belgelerin arşivlenmesi için prosedürler oluşturun, arşivlenen belgelerin güvenli bir şekilde saklanmasını ve gerektiğinde geçmişe yönelik referans için muhafaza edilmesini sağlayın.
+
+3.2.1.6.8 Dokümantasyon Bakımı
+
+    Düzenli İnceleme: Doğruluğu, güncelliği ve gelişen adli uygulamalara uygunluğu sağlamak için belgelerin düzenli olarak gözden geçirilmesi ve prosedürler, araçlar veya düzenlemelerdeki değişiklikleri yansıtmak için gerektiğinde belgelerin güncellenmesi.
+    Sürekli İyileştirme: Adli faaliyetleri desteklemede dokümantasyon kalitesini, kullanılabilirliğini ve etkinliğini artırmaya yönelik fırsatları belirlemek için kullanıcılardan ve paydaşlardan geri bildirim isteyin.
+
+3.2.2 Cihaz Hazırlığı
+
+    Cihaz İzolasyonu: Görüntüleme işlemi sırasında verilerin kirlenmesini veya kurcalanmasını önlemek için hedef cihazı ağdan ve diğer harici bağlantılardan izole edin.
+    Güç Yönetimi: Görüntüleme prosedürü sırasında kesintileri veya veri bozulmasını önlemek için hedef cihaz ve görüntüleme ekipmanı için sabit güç kaynakları sağlayın.
+    Cihaz Tanımlama: Hedef cihazın kimliğini ve sahipliğini doğrulayın, soruşturmayla ilgisini teyit edin ve görüntüleme için gerekli izinleri alın.
+
+3.2.2.1 İzolasyon ve Erişim Kontrolü
+
+    İzolasyon Prosedürleri: Yetkisiz erişimi veya veri kirlenmesini önlemek için hedef cihazı ağ kabloları, USB cihazları ve diğer çevre birimleri dahil olmak üzere tüm harici bağlantılardan fiziksel olarak izole edin.
+    Güvenli Ortam: Hazırlık sırasında kurcalama veya müdahale riskini en aza indirmek için cihazın özel bir adli tıp laboratuvarı veya kontrollü erişim alanı gibi güvenli bir ortamda bulunduğundan emin olun.
+    Erişim Kontrol Önlemleri: Yetkisiz kişilerin cihazı kurcalamasını önlemek için cihaza fiziksel erişimi kısıtlamak üzere kilitler, güvenlik rozetleri veya gözetleme kameraları gibi erişim kontrol önlemleri uygulayın.
+
+3.2.2.1.1 Fiziksel İzolasyon
+
+    Güvenli Ortam: Soruşturma sırasında yetkisiz erişimi veya kurcalamayı önlemek için hedef cihazın özel bir adli tıp laboratuvarı veya kontrollü erişim alanı gibi güvenli bir ortamda bulunduğundan emin olun.
+    Kısıtlı Erişim: Yetkisiz girişleri önlemek için kilitler, güvenlik rozetleri veya gözetleme kameraları gibi önlemler kullanarak inceleme alanına fiziksel erişimi yalnızca yetkili personelle sınırlandırın.
+
+3.2.2.1.2 Cihaz İzolasyonu
+
+    Ağlarla Bağlantısı Kesildi: İnceleme sırasında uzaktan erişimi veya verilerin ele geçirilmesini önlemek için hedef cihazın Wi-Fi, Ethernet veya Bluetooth bağlantıları gibi tüm harici ağlarla veya iletişim kanallarıyla bağlantısını kesin.
+    Hava Boşluğu İzolasyonu (Gerekiyorsa): Son derece hassas cihazlar veya vakalar için hava boşluğu izolasyonu uygulayın ve verilerin ele geçirilmesi veya sızması riskini en aza indirmek için cihazı tüm harici bağlantılardan ve ağlardan fiziksel olarak ayırın.
+
+3.2.2.1.3 Çevre Biriminin Çıkarılması
+
+    Harici Aygıtların Kaldırılması: Olası veri kirliliği veya parazit kaynaklarını ortadan kaldırmak için USB sürücüler, harici sabit sürücüler, hafıza kartları ve diğer çıkarılabilir ortamlar gibi tüm harici çevre birimlerini ve aksesuarları hedef cihazdan çıkarın.
+    Bağlantı Noktalarının ve Arayüzlerin Mühürlenmesi (Gerekiyorsa): Yetkisiz erişimi veya veri aktarımını önlemek için fiziksel engeller veya yazılım kontrolleri kullanarak hedef cihazdaki USB bağlantı noktaları, genişletme yuvaları veya CD/DVD sürücüleri gibi kullanılmayan bağlantı noktalarını ve arabirimleri mühürleyin veya engelleyin.
+
+3.2.2.1.4 Fiziksel Bariyerler
+
+    Fiziksel Muhafaza: Elektromanyetik paraziti önlemek ve uzaktan erişim veya kurcalama girişimlerine karşı korumak için hedef cihazı Faraday kafesi veya korumalı kap gibi fiziksel bir muhafaza veya bariyer içine yerleştirin.
+    Kurcalanmayı Belirten Mühürler: Hedef cihaz üzerindeki erişim noktalarına ve açıklıklara kurcalanmaya açık mühürler veya güvenlik bandı uygulayın ve yetkisiz erişim girişimlerini tespit etmek için mühür seri numaraları ve yerleştirme konumları gibi ayrıntıları kaydedin.
+
+3.2.2.1.5 Erişim Kontrol Önlemleri
+
+    Erişim Yetkilendirmesi: Hedef cihaza fiziksel erişimi kısıtlamak için biyometrik kimlik doğrulama, güvenlik kodları veya anahtar kart okuyucular gibi erişim kontrol önlemleri uygulayın ve yalnızca yetkili personelin cihazla etkileşime girebilmesini sağlayın.
+    Ziyaretçi Kayıtları ve Oturum Açma Prosedürleri: Erişimi takip etmek ve hesap verebilirliği sağlamak için soruşturma alanına giren kişilerin kimliklerini, ziyaret amaçlarını ve kalış sürelerini belgeleyen ziyaretçi kayıtları ve oturum açma prosedürleri tutun.
+
+3.2.2.1.6 Gözetim ve İzleme
+
+    Video Gözetimi: Hedef cihazın etrafındaki faaliyetleri izlemek ve kaydetmek için inceleme alanına video gözetim kameraları kurun ve yetkisiz erişim girişimleri veya kurcalama olaylarına ilişkin görsel kanıt sağlayın.
+    Faaliyet Günlüğü: Erişim girişimlerini, sistem olaylarını ve hedef cihazla kullanıcı etkileşimlerini kaydetmek için etkinlik kaydı ve denetim mekanizmaları uygulayarak güvenlik olaylarının geriye dönük olarak analiz edilmesini ve araştırılmasını sağlayın.
+
+3.2.2.1.7 Dokümantasyon
+
+    Erişim Kontrol Politikaları: Kurumsal standartlar ve düzenleyici gerekliliklerle uyumluluğu sağlamak için fiziksel güvenlik, erişim yetkisi ve ziyaretçi yönetimi için gereklilikleri özetleyen, soruşturma alanı için erişim kontrol politikaları ve prosedürlerini belgeleyin.
+    Olay Raporları: Hedef cihazla ilgili her türlü güvenlik olayını, ihlali veya yetkisiz erişim girişimini belgeleyen, olayın niteliğini, alınan önlemleri ve uygulanan düzeltme önlemlerini detaylandıran olay raporlarını muhafaza edin.
+
+3.2.2.2 Güç Yönetimi
+
+    Güç Kaynağı Doğrulaması: Hem hedef cihaz hem de görüntüleme ekipmanı veya aksesuarları için güç kaynaklarının kullanılabilirliğini ve istikrarını doğrulayın ve hazırlık süreci boyunca kesintisiz güç kaynağı sağlayın.
+    Pilin Çıkarılması (Varsa): Cihaz çıkarılabilir bir pille çalışıyorsa, hazırlık sırasında kazara açılma olaylarını veya veri bozulmasını önlemek için pili çıkarın.
+    Alternatif Güç Seçenekleri: Cihaz hazırlığı sırasında elektrik kesintisi veya kesinti riskini azaltmak için kesintisiz güç kaynakları (UPS) veya yedek jeneratörler gibi alternatif güç seçenekleri hazırlayın.
+
+3.2.2.2.1 Güç Kaynağı Tanımlama
+
+    Güç Kaynağını Belirleyin: Güç yönetimi için mevcut seçenekleri anlamak için hedef cihazın güç kaynağını, şebeke elektriğine mi bağlı olduğunu, pille mi çalıştığını veya her ikisinin bir kombinasyonu olup olmadığını belirleyin.
+    Güç Özellikleri: Güç yönetimi önlemleriyle uyumluluğu sağlamak için hedef cihazın voltaj gereksinimlerini, güç değerlerini ve konektör türlerini belirleyin.
+
+3.2.2.2.2 Güç Durumu Değerlendirmesi
+
+    Güç Durumu Kontrolü: Güç yönetimi kararlarını bildirmek için hedef cihazın açık, kapalı, uyku modunda veya düşük güç durumunda olup olmadığını belirleyerek mevcut güç durumunu değerlendirin.
+    Pil Seviyesi İzleme (Uygulanabilirse): Batarya ile çalışan cihazların batarya seviyesini izleyin, araştırmanın süresini desteklemek için yeterli şarj olup olmadığını kontrol edin veya kesintisiz güç kaynağı sağlamak için önlemler başlatın.
+
+3.2.2.2.3 Güç Koruma Önlemleri
+
+    Güç Açık Koruması: Hedef cihaz zaten çalışır durumdaysa, devam eden işlemleri aksatabilecek veya sistem durumunu değiştirebilecek gereksiz kapatma veya yeniden başlatmalardan kaçınarak cihazı açık tutun.
+    Düşük Güç Modu Etkinleştirme: Adli veri toplama ve analizi için erişilebilirliği korurken enerji tasarrufu sağlamak ve pil ömrünü uzatmak için hedef cihazda düşük güç veya uyku modlarını etkinleştirin.
+
+3.2.2.2.4 Kesintisiz Güç Kaynağı (UPS)
+
+    UPS Kurulumu (Varsa): Yedek güç sağlamak ve beklenmedik elektrik kesintilerine veya dalgalanmalarına karşı koruma sağlamak için inceleme alanına kesintisiz güç kaynağı (UPS) üniteleri kurun ve yapılandırın.
+    UPS Kapasite Planlaması: Hedef cihazların güç tüketimine ve incelemenin süresine bağlı olarak UPS ünitelerinin gerekli kapasitesini ve çalışma süresini belirleyin ve kritik operasyonları desteklemek için yeterli yedek gücü sağlayın.
+
+3.2.2.2.5 Güç Kaybının Azaltılması
+
+    Güç Kaybını Önleme: İnceleme sırasında güç kaybı riskini azaltmak için güç kablolarının ve bağlantılarının emniyete alınması, kazara bağlantının kesilmesinden kaçınılması ve yedek güç kaynaklarının muhafaza edilmesi gibi önlemleri uygulayın.
+    Acil Durum Güç Prosedürleri: Hedef cihazların güvenli bir şekilde kapatılması veya yeniden başlatılması ve adli faaliyetlere devam edilmesi için prosedürler de dahil olmak üzere beklenmedik güç kaybı olaylarını ele almak için acil durum güç prosedürleri ve müdahale protokolleri oluşturun.
+
+3.2.2.2.6 Güçle İlgili Dokümantasyon
+
+    Güç Yapılandırma Kayıtları: Açılış durumu, düşük güç modu aktivasyonu ve UPS konfigürasyonları dahil olmak üzere hedef cihazlara uygulanan güç yönetimi konfigürasyonları ve ayarları hakkında ayrıntılı bilgileri belgeleyin.
+    Güç Kesintisi Günlükleri: Referans ve analiz için tarih, saat, süre ve adli faaliyetler üzerindeki etkiyi kaydederek elektrik kesintileri, dalgalanmalar veya UPS aktivasyonları dahil olmak üzere güçle ilgili olayların günlüklerini tutun.
+
+3.2.2.2.7 En İyi Uygulamalara Uygunluk
+
+    Standartlara Bağlılık: Adli süreçlerde kalite ve güvenilirliği korumak için NIST veya ISO gibi kuruluşlar tarafından yayınlanan kılavuzlar gibi dijital adli soruşturmalarda güç yönetimine yönelik sektördeki en iyi uygulamalara ve standartlara uyulmasını sağlayın.
+    Sürekli İyileştirme: Verimliliği ve etkinliği artırmak için geri bildirimleri ve önerileri dahil ederek, önceki soruşturmalardan alınan derslere dayalı olarak güç yönetimi uygulamalarını sürekli olarak değerlendirin ve iyileştirin.
+
+3.2.2.3 Dokümantasyon ve Gözetim Zinciri
+
+    Cihaz Dokümantasyonu: Marka, model, seri numarası, yapılandırma ayarları ve görünür fiziksel hasar veya anormallikler dahil olmak üzere hedef cihazla ilgili ayrıntılı bilgileri belgeleyin.
+    Gözetim Zinciri Formu: Hedef cihaz için bir gözetim zinciri formu doldurun ve edinme tarihi ve saati, konumu, durumu ve cihazı kullanan kişilerin kimliği gibi ilgili ayrıntıları kaydedin.
+    Fotoğrafik Dokümantasyon: Belgeleme sürecini tamamlamak için hedef cihazın birden fazla açıdan fotoğraflarını veya videolarını çekin, fiziksel durumunu ve varsa dış işaretlerini veya tanımlayıcılarını yakalayın.
+
+3.2.2.3.1 Belgeleme Prosedürleri
+
+    Dokümantasyon Standartları: Cihaz kullanımı, inceleme adımları, bulgular ve analiz sonuçları dahil olmak üzere dijital adli sürecin tüm yönlerini belgelemek için standart prosedürler oluşturun.
+    Dokümantasyon Şablonları: Dokümantasyonda tutarlılık ve bütünlük sağlamak için soruşturma detayları, cihaz tanımlayıcıları, zaman damgaları ve soruşturmacı imzaları gibi kilit bilgilerin kaydedilmesi için şablonlar ya da formlar geliştirin.
+
+3.2.2.3.2 Cihaz Tanımlama
+
+    Benzersiz Tanımlayıcılar: Her bir hedef cihaza benzersiz tanımlayıcılar veya vaka numaraları atayarak soruşturma süreci boyunca izlenebilirlik ve hesap verebilirlik sağlayın.
+    Cihaz Etiketleme: Takip ve tanımlamayı kolaylaştırmak için hedef cihazları cihaz tipi, seri numarası, edinim tarihi ve vaka referans numarası gibi ilgili bilgileri içeren tanımlama etiketleri veya etiketlerle etiketleyin.
+
+3.2.2.3.3 Gözetim Zinciri Dokümantasyonu
+
+    Gözetim Zinciri Formu: Adli süreç boyunca hedef cihazların ve ilgili kanıtların gözetimini, kontrolünü ve transferini belgelemek için standartlaştırılmış bir gözetim zinciri formu kullanın.
+    Giriş Kaydı: Hedef cihazın her transferi veya devri için tarih, saat, yer, ilgili kişiler, transferin amacı ve ilgili gözlem veya yorumları belgeleyen ayrıntılı girişler kaydedin.
+
+3.2.2.3.4 Gözetim Zinciri Bakımı
+
+    Güvenli Depolama: Hedef cihazları ve ilgili kanıtları kullanılmadıkları zamanlarda güvenli depolama tesislerinde veya konteynerlerde saklayın ve kayıp, kurcalama veya kirlenmeyi önlemek için fiziksel ve çevresel kontrolleri sürdürün.
+    Erişim Günlükleri: Hesap verebilirliği ve izlenebilirliği sağlamak için depolanan cihazlara erişim günlükleri tutun, tarih, saat, erişim amacı ve depolama alanına erişen kişilerin kimliği gibi ayrıntıları kaydedin.
+
+3.2.2.3.5 Kanıt İşleme Prosedürleri
+
+    Elleçleme Protokolleri: Hedef cihazların ve ilgili kanıtların taşınması için, hasar, kayıp veya değişiklikleri önlemek için paketleme, taşıma ve depolama yönergeleri de dahil olmak üzere standartlaştırılmış prosedürler uygulayın.
+    Kanıt Mühürleme: Hedef cihazları ve kanıt konteynerlerini kurcalanmaya karşı korumalı mühürlerle veya güvenlik bandıyla mühürleyin, yetkisiz erişim veya kurcalama girişimlerini tespit etmek için mühür yerleşimini ve seri numaralarını belgeleyin.
+
+3.2.2.3.6 Belge İnceleme ve Doğrulama
+
+    Gözden Geçirme Süreci: Doğruluğu, eksiksizliği ve belirlenen prosedür ve standartlara uygunluğu doğrulamak için belge girişleri ve gözetim zinciri kayıtlarının düzenli olarak gözden geçirilmesi.
+    Kalite Güvence Kontrolleri: Dokümantasyon uygulamaları üzerinde kalite güvence kontrolleri gerçekleştirin, eksiklikleri veya tutarsızlıkları belirleyin ve dokümantasyon bütünlüğünü korumak için gerektiğinde düzeltici önlemler uygulayın.
+
+3.2.2.3.7 Denetim İzi Bakımı
+
+    Denetim İzi Oluşturma: Cihaz alımları, incelemeler, analiz görevleri ve raporlama faaliyetleri dahil olmak üzere soruşturma süreciyle ilgili tüm faaliyetleri ve olayları belgeleyen kapsamlı denetim izleri oluşturun.
+    Denetim İzi Muhafazası: Adli süreçlerin hesap verebilirliğini, şeffaflığını ve denetlenebilirliğini desteklemek için kayıtları uygun bir saklama süresi boyunca muhafaza ederek denetim izlerini güvenli, kurcalamaya karşı korumalı depolama havuzlarında saklayın.
+
+3.2.2.3.8 Uyumluluk ve Yasal Gereklilikler
+
+    Uyumluluk Güvencesi: Federal Kanıt Kuralları veya yerel yargı yasalarında belirtilenler gibi standartlara bağlı kalarak dijital kanıt işleme ve gözetim zinciri prosedürlerini düzenleyen yasal ve düzenleyici gerekliliklere uygunluğu sağlayın.
+    Dokümantasyon Doğrulama: Yürürlükteki standartlara ve yönetmeliklere uyulduğunu gösteren iç veya dış paydaşlar tarafından yapılan periyodik denetimler, değerlendirmeler veya incelemeler yoluyla dokümantasyon uygulamalarını ve gözetim zinciri prosedürlerini doğrulayın.
+
+3.2.2.4 Kanıtların Korunması
+
+    Kanıt Taşıma Prosedürleri: Potansiyel kanıtların yanlışlıkla değiştirilmesini veya zarar görmesini önlemek için hedef cihazı antistatik torbalar veya eldivenler gibi uygun koruyucu önlemler kullanarak dikkatli bir şekilde taşıyın.
+    Kanıt Mühürleme (Uygulanabilirse): Hedef cihazın taşınması veya depolanması gerekiyorsa, delilin bütünlüğünü korumak için kurcalanmaya karşı korumalı ambalaj veya delil torbalarıyla mühürleyin ve mühürleme işlemini belgeleyin.
+    Nakliye Güvenliği: Hedef cihazın adli tıp laboratuvarına ya da analiz bölgesine nakli için güvenli nakliye prosedürleri uygulayın ve nakliye sırasında kayıp, hırsızlık ya da hasar riskini en aza indirin.
+
+3.2.2.4.1 Veri Bütünlüğü Doğrulaması
+
+    Hash Hesaplama: Verilerin belirli bir zamandaki bütünlüğünü temsil eden benzersiz tanımlayıcılar oluşturmak için hedef cihazın depolama ortamı için kriptografik karma değerleri veya sağlama toplamlarını hesaplayın.
+    Görüntüleme Öncesi Doğrulama: Orijinal verilerin bütünlüğünü doğrulamak ve alımdan önce meydana gelmiş olabilecek değişiklikleri veya tahrifatı tespit etmek için görüntülemeden önce hash hesaplamaları gerçekleştirin.
+
+3.2.2.4.2 Yazma Koruma Önlemleri
+
+    Salt Okunur Erişim: Adli veri toplama işlemi sırasında orijinal verilerde herhangi bir değişiklik yapılmasını veya değiştirilmesini önlemek için hedef cihazlara salt okunur modda erişildiğinden emin olun.
+    Yazma Engelleme Aygıtları: Hedef cihazlara salt okunur erişimi zorunlu kılmak, yazma işlemlerini önlemek ve kanıtların bütünlüğünü korumak için yazma engelleyici donanım veya yazılım cihazları kullanın.
+
+3.2.2.4.3 Adli Görüntüleme
+
+    Bit-Bit Görüntüleme: Silinen dosyalar, ayrılmamış alan ve sistem meta verileri de dahil olmak üzere tüm verilerin tam bir kopyasını yakalamak için bit-bit görüntüleme tekniklerini kullanarak hedef cihazın depolama ortamının adli kopyalarını oluşturun.
+    Adli Görüntüleme Araçları: Sektördeki en iyi uygulamalara ve standartlara bağlı kalarak dijital kanıtların doğru ve güvenilir bir şekilde elde edilmesini sağlamak için özel adli görüntüleme araçları ve yazılımları kullanın.
+
+3.2.2.4.4 Gözetim Zinciri Dokümantasyonu
+
+    Dokümantasyon Bakımı: Dijital kanıtların korunmasını yansıtacak şekilde gözetim zinciri belgelerini güncelleyin, tarih, saat ve elde etme yöntemi gibi ayrıntıların yanı sıra kanıt bütünlüğüyle ilgili gözlemleri veya ek açıklamaları kaydedin.
+    Gözetim Zinciri İmzaları: Kanıtın muhafaza edilmesine dahil olan kişilerden, elde eden soruşturmacı ve süreç sırasında hazır bulunan tanıklar da dahil olmak üzere, imza ya da onay alın.
+
+3.2.2.4.5 Depolama ve Elleçleme Protokolleri
+
+    Güvenli Depolama: Dijital kanıtların adli kopyalarını, yetkisiz erişimi, kurcalamayı veya kaybı önlemek için fiziksel ve çevresel kontroller sağlayarak güvenli, kurcalamaya dayanıklı depolama depolarında saklayın.
+    Etiketleme ve Tanımlama: Kanıt kaplarını veya saklama ortamlarını benzersiz tanımlayıcılar, vaka numaraları ve diğer ilgili bilgilerle etiketleyerek sonraki adli analizler sırasında izleme, tanımlama ve geri alma işlemlerini kolaylaştırın.
+
+3.2.2.4.6 Yedekleme ve Yedeklilik
+
+    Yedekleme Prosedürleri: Dijital kanıtların yedek kopyalarını oluşturmak için yedekleme prosedürleri uygulayın, donanım arızaları, felaketler veya diğer öngörülemeyen olaylar nedeniyle veri kaybı riskini azaltmak için yedekleri coğrafi olarak dağınık konumlarda veya ayrı ortamlarda saklayın.
+    Sağlama Toplamı Doğrulaması: Korunan kanıtların zaman içinde tutarlılığını ve güvenilirliğini sağlamak için sağlama toplamı doğrulaması veya karma doğrulama yoluyla yedek kopyaların bütünlüğünü doğrulayın.
+
+3.2.2.4.7 Yasal ve Düzenleyici Uyumluluk
+
+    Standartlara Bağlılık: Federal Kanıt Kuralları veya yerel yargı yetkisi yasalarında belirtilenler gibi standartlara bağlı kalarak, dijital adli tıp soruşturmalarında kanıtların korunmasını düzenleyen yasal ve düzenleyici gerekliliklere uyulmasını sağlayın.
+    Uyumluluğun Belgelendirilmesi: Yürürlükteki standartlara ve yönetmeliklere uygunluğu göstermek için kanıt koruma prosedürlerini ve uygulamalarını belgeleyin ve koruma faaliyetlerinin şeffaf ve savunulabilir bir kaydını sağlayın.
+
+3.2.2.5 Yasal ve Etik Hususlar
+
+    Yasal Yetkilendirme: Hedef cihazın alınması ve hazırlanmasının, dijital kanıt toplama ve korumayı düzenleyen tüm geçerli yasalara, yönetmeliklere ve yasal standartlara uygun olduğundan emin olun.
+    Etik Kurallar: Adli süreçte bütünlüğü ve güvenilirliği korumak için Uluslararası Bilgisayar Araştırma Uzmanları Birliği (IACIS) Etik Kuralları'nda belirtilenler gibi mesleki etik ve davranış standartlarına uyun.
+    Bilgilendirilmiş Onay (Varsa): Herhangi bir istilacı veya potansiyel olarak müdahaleci hazırlık prosedürüne geçmeden önce cihaz sahipleri veya vasileri gibi ilgili paydaşlardan bilgilendirilmiş onay alınmalı, şeffaflık sağlanmalı ve bireysel haklara ve mahremiyete saygı gösterilmelidir.
+
+3.2.2.5.1 Yasa ve Yönetmeliklere Uygunluk
+
+    Yasal Çerçeve: Veri gizliliği, elektronik gözetim ve bilgisayar suçları ile ilgili yasalar da dahil olmak üzere, yetki alanınızdaki dijital kanıt toplama, koruma ve analizini düzenleyen ilgili yasalar, yönetmelikler ve yasal emsaller hakkında bilgi sahibi olun.
+    Yasal Standartlara Bağlılık: Tüm dijital adli tıp faaliyetlerinin yasal standartlara ve gerekliliklere uygun olmasını sağlayın, adli tıp incelemeleri yapmadan veya dijital kanıt elde etmeden önce yasaların gerektirdiği şekilde gerekli izinleri, mahkeme kararlarını veya onay formlarını alın.
+
+3.2.2.5.2 Kabul Edilebilirlik ve Orijinallik
+
+    Kabul Edilebilirlik Kriterleri: Yasal işlemlerde dijital kanıtların kabul edilebilirlik kriterlerini göz önünde bulundurun ve kanıt toplama, muhafaza etme ve analiz etmenin uygunluk, güvenilirlik ve özgünlük ilkelerine bağlı kalmasını sağlayın.
+    Gözetim Zincirinin Belgelendirilmesi: Mahkemede gerçekliği ve inandırıcılığı tesis etmek için dijital kanıtlara yönelik gözetim zincirinin edinim detayları, işleme prosedürleri ve saklama protokolleri de dahil olmak üzere kapsamlı dokümantasyonunu muhafaza edin.
+
+3.2.2.5.3 Gizlilik ve Veri Koruma
+
+    Veri Gizliliği Yasaları: Dijital kanıtları toplarken, işlerken ve analiz ederken bireylerin gizlilik haklarına saygı gösterin ve veri koruma yasalarına uyun, kişisel veya hassas bilgilerin yasal gerekliliklere uygun olarak ele alınmasını sağlayın.
+    Veri Minimizasyonu: Bireylerin özel bilgilerinin açığa çıkmasını sınırlamak ve gizlilik risklerini azaltmak için adli incelemeler sırasında ilgisiz veya gereksiz verilerin toplanmasını ve saklanmasını en aza indirin.
+
+3.2.2.5.4 Bilgilendirilmiş Onay
+
+    Onay Prosedürleri: Adli incelemeler yapmadan veya dijital kanıtlara erişmeden önce cihaz sahipleri veya veri özneleri gibi ilgili paydaşlardan bilgilendirilmiş onay alın ve incelemenin amacı, kapsamı ve sonuçları hakkında net açıklamalar sağlayın.
+    Gönüllü Katılım: Dijital adli incelemelere katılımın gönüllü olmasını ve bireylerin mahremiyet, özerklik ve kendi kaderini tayin etme haklarına saygı göstererek bilgilendirilmiş rızaya dayanmasını sağlayın.
+
+3.2.2.5.5 Mesleki Etik
+
+    Davranış Kuralları: Uluslararası Bilgisayar Araştırma Uzmanları Derneği (IACIS) veya Uluslararası Adli Bilgisayar İncelemecileri Derneği (ISFCE) gibi kuruluşlar tarafından oluşturulan mesleki davranış ve etik kurallarına uyun ve dürüstlük, nesnellik ve tarafsızlık ilkelerini koruyun.
+    Çıkar Çatışması Açıklaması: Soruşturma uygulamalarında şeffaflığı ve güvenilirliği koruyarak adli analiz veya yorumlamayı etkileyebilecek olası çıkar çatışmalarını veya önyargıları açıklayın.
+
+3.2.2.5.6 Uzman Tanıklık Hazırlığı
+
+    Uzman Tanık Eğitimi: Dijital adli tıp davalarında uzman tanık olarak nitelendirilmek için adli tıp teknikleri, metodolojileri ve yasal prosedürler konusunda özel eğitim ve öğretim alın.
+    Rapor Hazırlama: İnceleme prosedürlerini, bulguları ve sonuçları açık, özlü ve objektif bir şekilde belgeleyen, mahkeme işlemlerinde uzman tanıklığı olarak sunulmaya uygun ayrıntılı adli tıp raporları hazırlayın.
+
+3.2.2.5.7 Sürekli Mesleki Gelişim
+
+    Mesleki Gelişim Faaliyetleri: Dijital adli tıp alanında gelişen yasal ve teknolojik gelişmelerden haberdar olmak için sürekli eğitim, öğretim ve mesleki gelişim faaliyetlerinde bulunmak.
+    Etik Farkındalık: Dijital adli tıp uygulamalarında ortaya çıkabilecek etik zorlukları ve ikilemleri belirleme ve ele alma konusunda uyanık ve proaktif olun, gerektiğinde etik komitelerden veya meslek birliklerinden rehberlik isteyin.
+
+3.2.3 Görüntüleme Prosedürü
+
+    Salt Okunur Erişim: Görüntüleme işlemi sırasında orijinal verilerde değişiklik yapılmasını veya değiştirilmesini önlemek için hedef cihaza salt okunur modda erişin.
+    Veri Doğrulama: Görüntüleme prosedürünü başlatmadan önce sağlama toplamı doğrulaması veya karma hesaplama yoluyla hedef cihazın verilerinin bütünlüğünü ve gerçekliğini doğrulayın.
+    Görüntüleme Yürütme: Seçilen adli görüntüleme aracını kullanarak, tüm sektörler ve meta veriler dahil olmak üzere hedef cihazın depolama ortamının bit bit kopyasını yakalayarak görüntüleme işlemini yürütün.
+
+3.2.3.1 Salt Okunur Erişim
+
+    Erişim Modu Seçimi: Görüntüleme işlemi sırasında orijinal verilerde herhangi bir değişiklik, silme veya tahrifat yapılmasını önlemek için hedef cihaza salt okunur modda erişildiğinden emin olun.
+    Yazma Engelleyiciler: Hedef cihazın depolama ortamına salt okunur erişimi zorunlu kılmak için donanım veya yazılım yazma engelleyicileri uygulayın ve kanıtın bütünlüğünü tehlikeye atabilecek herhangi bir yazma işlemini önleyin.
+
+3.2.3.1.1 Erişim Modu Seçimi
+
+    Salt Okunur Erişimi Anlama: Araştırmacıların hedef cihazın içeriğinde herhangi bir değişiklik veya düzenleme yapmadan verileri görüntülemesine ve ayıklamasına olanak tanıyan salt okunur erişim kavramını net bir şekilde anladığınızdan emin olun.
+    Salt Okunur Erişimin Önemi: Dijital delillerin bütünlüğünü ve gerçekliğini korumak ve orijinal verilerde herhangi bir kasıtsız değişiklik veya silme işlemini önlemek için dijital adli tıp soruşturmalarında salt okunur erişimin kritik önemini vurgulayın.
+
+3.2.3.1.2 Donanım Yazma Engelleyicileri
+
+    Yazma Engellemeye Giriş: Herhangi bir yazma komutunu veya veri değiştirme girişimini engelleyerek depolama ortamına salt okunur erişimi zorunlu kılmak için kullanılan özel cihazlar olan donanım yazma engelleyicilerini tanıtın.
+    İşlevsellik: Donanım yazma engelleyicilerinin hedef cihazdan gelen yazma komutlarını nasıl engelleyip filtrelediğini ve yazma işlemleri engellenirken tüm okuma işlemlerine izin verilmesini nasıl sağladığını açıklayın.
+    Yazma Engelleyici Türleri: Adli köprülerdeki satır içi yazma engelleyiciler, harici yazma engelleyiciler ve entegre yazma engelleyiciler gibi farklı donanım yazma engelleyici türlerini ve bunların ilgili özelliklerini ve yeteneklerini tartışın.
+
+3.2.3.1.3 Yazılım Yazma Engelleme
+
+    Yazılım Yazma Engelleyicisine Genel Bakış: Yazma komutlarını durdurarak ve yeniden yönlendirerek depolama ortamına salt okunur erişimi taklit etmek için yazılım tabanlı mekanizmalar kullanan yazılım yazma engelleme çözümlerine genel bir bakış sağlayın.
+    İşlevsellik: Yazılım yazma engelleme araçlarının yazma komutlarını işletim sistemi veya dosya sistemi düzeyinde nasıl engellediğini, okuma işlemlerinin devam etmesine izin verirken hedef cihazın depolama ortamına ulaşmalarını nasıl engellediğini açıklayın.
+    Dikkat Edilecek Hususlar ve Sınırlamalar: Farklı işletim sistemleri ve dosya sistemleriyle uyumluluk, performans etkisi ve olası güvenlik açıkları gibi yazılım yazma engellemesiyle ilişkili hususları ve sınırlamaları tartışın.
+
+3.2.3.1.4 Salt Okunur Erişimin Doğrulanması
+
+    Salt Okunur Durumunu Test Etme: Dosya oluşturma, değiştirme veya silme gibi yazma işlemlerini gerçekleştirmeye çalışarak ve bunların engellendiğini doğrulayarak hedef cihazda salt okunur erişimin etkin bir şekilde uygulandığını doğrulayın ve onaylayın.
+    Araç Doğrulaması: Tutarlı ve güvenilir salt okunur erişimi sağlamak için birden fazla cihaz ve depolama ortamı türü üzerinde doğrulama testleri yaparak seçilen donanım veya yazılım yazma engelleyicisinin işlevselliğini ve etkinliğini doğrulayın.
+
+3.2.3.1.5 Dokümantasyon ve Gözetim Zinciri
+
+    Salt Okunur Erişimin Belgelendirilmesi: Salt okunur erişimi uygulamak için kullanılan tarih, saat ve yöntemin yanı sıra gerçekleştirilen doğrulama testleri de dahil olmak üzere salt okunur erişim süreci hakkında ayrıntılı bilgileri belgeleyin.
+    Gözetim Zinciri Güncellemesi: Gözetim zinciri belgelerini hedef cihazın salt okunur erişim durumunu yansıtacak şekilde güncelleyin, veri bütünlüğünü sağlamak ve dijital kanıtların delil değerini korumak için atılan adımları kaydedin.
+
+3.2.3.2 Veri Doğrulama
+
+    Veri Bütünlüğü Kontrolü: Görüntüleme işlemini başlatmadan önce verilerin bütünlüğünü ve gerçekliğini doğrulamak için hedef cihazda bir veri bütünlüğü kontrolü gerçekleştirin.
+    Hash Hesaplama: Hedef cihazın depolama ortamı için hash değerlerini veya sağlama toplamlarını hesaplayın ve bunları bilinen veya beklenen değerlerle karşılaştırarak herhangi bir tahrifat, bozulma veya yetkisiz değişiklik belirtisini tespit edin.
+
+3.2.3.2.1 Veri Doğrulamayı Anlama
+
+    Amaç: Görüntüleme işlemine geçmeden önce hedef cihazdan elde edilen verilerin bütünlüğünü ve gerçekliğini sağlamak olan dijital adli tıpta veri doğrulamanın amacını açıklığa kavuşturmak.
+    Önem: Veri doğrulamanın Yasal işlemlerde, düzenleyici soruşturmalarda ve diğer adli tıp bağlamlarında dijital kanıtların güvenilirliğini ve kabul edilebilirliğini korumak için veri doğrulamanın kritik önemini vurgulayın.
+
+3.2.3.2.2 Görüntüleme Öncesi Kontroller
+
+    Hash Hesaplama: MD5, SHA-1 veya SHA-256 gibi kriptografik algoritmaları kullanarak görüntüleme işlemini başlatmadan önce hedef cihazın depolama ortamı için karma değerleri veya sağlama toplamlarını hesaplayın.
+    Bilinen Değerlerle Karşılaştırma: Verilerin bütünlüğünü ve gerçekliğini doğrulamak için hesaplanan hash değerlerini referans görüntü veya belgeler gibi güvenilir bir kaynaktan elde edilen bilinen veya beklenen değerlerle karşılaştırın.
+
+3.2.3.2.3 Fiziksel Muayene
+
+    Görsel İnceleme: Hedef cihazın fiziksel durumunu görsel olarak inceleyin ve verilerin bütünlüğüyle ilgili olası sorunlara işaret edebilecek kurcalama, hasar veya değişiklik belirtilerini kontrol edin.
+    Kurcalanmaya Açık Mühürler: Cihaz üzerindeki kurcalanmaya açık mühürleri veya güvenlik özelliklerini inceleyin, bütünlüklerini doğrulayın ve kurcalama veya yetkisiz erişim belirtilerini belgeleyin.
+
+3.2.3.2.4 Dosya Sistemi Analizi
+
+    Dosya Sistemi Bütünlüğü: Hedef cihazın dosya sistemi yapısını ve meta verilerini analiz ederek bütünlüğünü ve tutarlılığını değerlendirin, olası veri bozulmasına veya manipülasyonuna işaret edebilecek anormallikleri veya düzensizlikleri belirleyin.
+    Dosya Sistemi Kontrolü: Unix tabanlı sistemler için fsck veya Windows sistemleri için chkdsk gibi uygun araçları veya yardımcı programları kullanarak dosya sistemi hatalarını veya tutarsızlıklarını tespit etmek ve onarmak için dosya sistemi bütünlük kontrolleri gerçekleştirin.
+
+3.2.3.2.5 Meta Veri İncelemesi
+
+    Meta Veri Doğrulaması: Doğruluklarını ve özgünlüklerini doğrulamak için zaman damgaları, dosya öznitelikleri ve sahiplik bilgileri dahil olmak üzere hedef cihazdaki dosyalar ve dizinlerle ilişkili meta verileri inceleyin.
+    Meta Veri Analiz Araçları: Hedef cihazdan meta verileri çıkarmak ve analiz etmek için özel meta veri analiz araçlarını veya adli yazılım çözümlerini kullanın ve daha fazla araştırma gerektirebilecek tutarsızlıkları veya tutarsızlıkları belirleyin.
+
+3.2.3.2.6 Doğrulama Kontrolleri Dokümantasyon
+
+    Doğrulama Adımlarının Belgelendirilmesi: Kullanılan yöntemler, elde edilen sonuçlar ve verilerin bütünlüğü ve gerçekliği ile ilgili gözlemler veya bulgular dahil olmak üzere veri doğrulama süreci hakkında ayrıntılı bilgileri belgeleyin.
+    Gözetim Zinciri Güncellemesi: Gözetim zinciri belgelerini veri doğrulama sürecini yansıtacak şekilde güncelleyin ve görüntüleme işlemine geçmeden önce verilerin bütünlüğünü ve gerçekliğini doğrulamak için atılan adımları kaydedin.
+
+3.2.3.3 Görüntüleme İşleminin Yürütülmesi
+
+    Görüntüleme Aracı Seçimi: Cihaz türü, depolama ortamı formatı ve görüntüleme gereksinimleri gibi faktörlere dayalı olarak uygun bir adli görüntüleme aracı veya yazılım çözümü seçin.
+    Görüntüleme Parametreleri Yapılandırması: Görüntüleme yöntemi (örn. bit-bit veya mantıksal), sıkıştırma ayarları ve çıktı formatı gibi görüntüleme parametrelerini hedef cihazın belirli özelliklerine ve soruşturma hedeflerine göre yapılandırın.
+    Görüntüleme Başlangıcı: Seçilen görüntüleme aracını kullanarak görüntüleme işlemini başlatın ve tüm sektörler, bölümler ve dosya sistemleri dahil olmak üzere hedef cihazın depolama ortamının adli bir görüntüsünü yakalayın.
+
+3.2.3.3.1 Adli Görüntüleme Aracı Seçimi
+
+    Araç Değerlendirmesi: Hedef cihazın işletim sistemi, dosya sistemi ve depolama ortamı türü ile uyumluluğun yanı sıra soruşturmanın görüntüleme gereksinimleri gibi faktörlere dayalı olarak uygun bir adli görüntüleme aracını değerlendirin ve seçin.
+    Araç Özellikleri: Farklı görüntüleme yöntemleri (örn. bit bazında veya mantıksal), sıkıştırma seçenekleri, şifreleme desteği ve doğrulama mekanizmaları için destek dahil olmak üzere görüntüleme aracının özelliklerini ve yeteneklerini göz önünde bulundurun.
+
+3.2.3.3.2 Görüntüleme Parametreleri Yapılandırması
+
+    Görüntüleme Yöntemi: Hedef cihazın yapısına ve araştırmanın amaçlarına göre uygun bir görüntüleme yöntemi seçin; örneğin tam adli kopyalar için bit bit görüntüleme veya seçici veri toplama için mantıksal görüntüleme.
+    Sıkıştırma Ayarları: Mevcut depolama alanı ve iletim bant genişliği gibi faktörleri göz önünde bulundurarak veri bütünlüğünü korurken adli görüntünün boyutunu azaltmak için varsa sıkıştırma ayarlarını yapılandırın.
+    Çıktı Formatı: Adli görüntü için ham ikili (.dd), Encase (.e01) veya Gelişmiş Adli Biçim (AFF) gibi çıktı biçimini belirleyerek adli analiz araçları ve yazılımlarıyla uyumluluğu sağlayın.
+
+3.2.3.3.3 Cihaz Tanımlama ve Seçimi
+
+    Hedef Cihazın Tanımlanması: Görüntülenecek hedef cihazı tanımlayın, araştırma planında belirtilen cihaza karşılık geldiğinden ve görüntüleme iş istasyonu veya sistemine düzgün şekilde bağlı ve erişilebilir olduğundan emin olun.
+    Çoklu Cihaz Kullanımı: Birden fazla cihazı aynı anda veya sırayla görüntülüyorsanız, her bir cihazın uygun şekilde tanımlandığından ve seçildiğinden emin olun, aralarında ayrım yapmak için benzersiz tanımlayıcılar veya etiketler atayın.
+
+3.2.3.3.4 Görüntüleme Başlangıcı
+
+    Görüntüleme Öncesi Kontroller: Görüntüleme işlemini başlatmadan önce hedef cihazın salt okunur durumunu doğrulama, adli görüntü için yeterli depolama alanı sağlama ve görüntüleme aracının bütünlüğünü onaylama gibi son kontrolleri ve hazırlıkları gerçekleştirin.
+    Görüntüleme Başlatma: Hedef cihazın depolama ortamının adli bir kopyasını almak için yapılandırılmış parametreleri ve seçenekleri izleyerek seçilen adli görüntüleme aracını kullanarak görüntüleme işlemini başlatın.
+    İlerleme İzleme: Görüntülenen sektör sayısı, geçen süre ve görüntüleme aracı tarafından oluşturulan hata mesajları veya uyarılar dahil olmak üzere ilerlemesini izlemek için görüntüleme işlemini gerçek zamanlı olarak izleyin.
+
+3.2.3.3.5 Görüntüleme Kesintisi İşleme
+
+    Hata Tespiti: Görüntüleme işlemi sırasında meydana gelebilecek okuma hataları, cihaz bağlantılarının kesilmesi veya görüntüleme aracının çökmesi gibi hataları veya kesintileri uygun sorun giderme tekniklerini kullanarak tespit edin ve bunlara yanıt verin.
+    Hata Çözümü: Görüntüleme hatalarını çözmek ve görüntüleme işlemini devam ettirmek için hatalı sektörleri yeniden denemek, hatalı donanım bileşenlerini değiştirmek veya görüntüleme aracını ayarlanmış parametrelerle yeniden başlatmak gibi düzeltici eylemler gerçekleştirin.
+
+3.2.3.3.6 Tamamlama ve Doğrulama
+
+    Görüntüleme Tamamlandı: Hedef cihazın depolama ortamının tüm sektörlerinin başarılı bir şekilde görüntülendiğinden ve adli görüntüde yakalandığından emin olmak için tamamlanıncaya kadar görüntüleme işlemini izleyin.
+    Doğrulama Kontrolleri: Bütünlüğünü, gerçekliğini ve eksiksizliğini sağlamak için oluşturulan adli görüntü üzerinde doğrulama kontrolleri gerçekleştirin, veri tutarlılığını onaylamak için hash değerlerini veya sağlama toplamlarını görüntülemeden önce hesaplananlarla karşılaştırın.
+
+3.2.3.3.7 Dokümantasyon ve Gözetim Zinciri Güncellemesi
+
+    Görüntüleme Ayrıntılarının Belgelenmesi: Görüntüleme prosedürünün tarihi, saati, süresi ve sonucunun yanı sıra karşılaşılan sorunlar ve uygulanan çözümler de dahil olmak üzere görüntüleme süreci hakkında ayrıntılı bilgileri belgeleyin.
+    Gözetim Zinciri Güncellemesi: Gözetim zinciri belgelerini görüntüleme sürecini yansıtacak şekilde güncelleyin, adli görüntüyü elde etmek ve görüntüleme prosedürü boyunca bütünlüğünü korumak için atılan adımları kaydedin.
+
+3.2.3.4 İlerleme İzleme ve Dokümantasyon
+
+    Gerçek Zamanlı İzleme: İlerlemesini sağlamak ve prosedür sırasında meydana gelebilecek olası hataları, anormallikleri veya kesintileri tespit etmek için görüntüleme sürecini gerçek zamanlı olarak izleyin.
+    Görüntüleme Ayrıntılarının Belgelenmesi: Görüntüleme tarihi ve saati, kullanılan görüntüleme aracı, görüntüleme parametreleri ve karşılaşılan ilgili gözlemler veya sorunlar dahil olmak üzere görüntüleme süreci hakkında ayrıntılı bilgileri belgeleyin.
+    Gözetim Zinciri Güncellemesi: Gözetim zinciri dokümantasyonunu görüntüleme sürecini yansıtacak şekilde güncelleyin, ilgili kişilerin kimliğini, görüntülemenin başlangıç ve bitiş zamanlarını ve cihazın gözetim durumundaki değişiklikleri kaydedin.
+
+3.2.3.4.1 Gerçek Zamanlı İzleme
+
+    Sürekli Gözetim: İlerlemesini takip etmek ve prosedür sırasında ortaya çıkabilecek olası sorunları veya anormallikleri belirlemek için görüntüleme sürecini gerçek zamanlı olarak sürekli izleyin.
+    Görüntüleme Aracı Arayüzü: Görüntülenen sektör sayısı, geçen süre, veri aktarım hızı ve oluşturulan hata mesajları veya uyarılar gibi temel ölçümleri izlemek için görüntüleme aracı tarafından sağlanan arayüzü kullanın.
+
+3.2.3.4.2 Hata Tespiti ve İşleme
+
+    Hata Uyarıları: Görüntüleme aracını okuma hataları, cihaz arızaları veya görüntüleme aracı çökmeleri gibi hatalar veya anormallikler durumunda uyarılar veya bildirimler oluşturacak şekilde yapılandırarak hızlı tespit ve müdahaleye olanak tanıyın.
+    Hata Çözümü: Görüntüleme hatalarını ve sorunlarını ortaya çıktıklarında çözmek için başarısız sektörleri yeniden denemek, görüntüleme parametrelerini ayarlamak, hatalı donanım bileşenlerini değiştirmek veya görüntüleme işlemini yeniden başlatmak gibi sorun giderme tekniklerini kullanın.
+
+3.2.3.4.3 İlerleme Dokümantasyonu
+
+    Ayrıntılı Günlük Kaydı: Görüntülemenin başlangıç ve bitiş zamanları, prosedürün süresi, görüntülenen sektör sayısı ve karşılaşılan hatalar veya uyarılar dahil olmak üzere görüntüleme işlemi hakkında ayrıntılı bilgileri belgeleyin.
+    Görüntüleme Günlük Dosyaları: Görüntüleme aracı tarafından oluşturulan ve zaman damgaları, olay açıklamaları, hata kodları ve diğer ilgili bilgileri içeren günlük dosyalarını ileride başvurmak ve analiz etmek üzere kaydedin.
+
+3.2.3.4.4 Gözlemler ve Açıklamalar
+
+    Olaylara Açıklama Ekleme: Hata çözümleri, cihaz değişiklikleri veya beklenmedik davranışlar gibi önemli olayları, gözlemleri veya gerçekleştirilen eylemleri kaydetmek için görüntüleme işlemi sırasında gerçek zamanlı gözlemler ve ek açıklamalar yapın.
+    Ek Açıklama Dokümantasyonu: Ek açıklamaları ve gözlemleri görüntüleme günlüğünde veya ayrı bir gözlem günlüğünde belgeleyin ve görüntüleme prosedürünün ilerleyişini anlamaya yardımcı olmak için bağlam ve netlik sağlayın.
+
+3.2.3.4.5 Kalite Güvence Kontrolleri
+
+    Kalite Değerlendirmesi: Elde edilen adli görüntünün bütünlüğünü, doğruluğunu ve güvenilirliğini sağlamak için görüntüleme süreci boyunca periyodik kalite güvence kontrolleri gerçekleştirin.
+    Doğrulama Testleri: Verilerin tutarlılığını ve gerçekliğini doğrulamak için hash değerlerini veya sağlama toplamlarını görüntülemeden önce hesaplananlarla karşılaştırarak oluşturulan adli görüntü üzerinde doğrulama testleri gerçekleştirin.
+
+3.2.3.4.6 İletişim ve Raporlama
+
+    Durum Güncellemeleri: Proje yöneticileri, adli analistler, hukuk müşavirleri ve soruşturma ekibinin diğer üyeleri dahil olmak üzere ilgili paydaşlara görüntüleme ilerlemesi hakkında düzenli durum güncellemeleri sağlayın.
+    Raporlama: Görüntüleme sürecinin durumunu ve bulgularını belgeleyen, prosedür sırasında karşılaşılan önemli olayları, sorunları veya gözlemleri vurgulayan ara ilerleme raporları hazırlayın.
+
+3.2.3.4.7 Gözetim Zinciri Güncellemesi
+
+    Dokümantasyon Bakımı: Görüntüleme işleminin ilerleyişini ve durumunu yansıtmak için gözetim zinciri belgelerini güncelleyin, görüntülemenin başlangıç ve bitiş zamanları, ilgili kişiler ve hedef cihazın ve adli görüntünün gözetim durumundaki değişiklikler gibi temel ayrıntıları kaydedin.
+
+3.2.3.5 Doğrulama ve Geçerli Kılma
+
+    Görüntü Doğrulama: Hash değerlerini veya sağlama toplamlarını görüntülemeden önce hesaplananlarla karşılaştırarak adli görüntünün bütünlüğünü ve gerçekliğini doğrulayın ve görüntünün hedef cihazdaki orijinal verileri doğru bir şekilde yansıttığından emin olun.
+    Görüntü Doğrulama: Adli görüntüyü bir adli iş istasyonuna veya analiz sistemine monte ederek ve dosya sistemi kontrolleri ve meta veri doğrulaması gibi temel doğrulama testlerini gerçekleştirerek doğrulayın ve sonraki analizler için kullanılabilirliğini ve güvenilirliğini onaylayın.
+
+3.2.3.5.1 Hash Hesaplama
+
+    Görüntüleme Öncesi Hash Hesaplama: MD5, SHA-1 veya SHA-256 gibi kriptografik algoritmaları kullanarak görüntüleme işlemini başlatmadan önce hedef cihazın depolama ortamı için karma değerleri veya sağlama toplamlarını hesaplayın.
+    Görüntüleme Sonrası Karma Hesaplama: Görüntüleme işlemi tamamlandıktan sonra, görüntüleme öncesi hesaplamalarla aynı algoritmaları ve parametreleri kullanarak hedef cihazdan alınan adli görüntü için karma değerleri veya sağlama toplamlarını hesaplayın.
+
+3.2.3.5.2 Hash Karşılaştırması
+
+    Görüntüleme Öncesi ve Sonrası Karşılaştırma: Adli görüntünün bütünlüğünü ve gerçekliğini doğrulamak için görüntüleme işleminden önce ve sonra hesaplanan hash değerlerini veya sağlama toplamlarını karşılaştırın.
+    Beklenen Sonuçlar: Adli görüntünün hash değerlerinin veya sağlama toplamlarının, görüntünün hedef cihazdaki orijinal verileri doğru bir şekilde yansıttığını gösterecek şekilde, görüntülemeden önce hesaplananlarla eşleşmesini bekleyin.
+
+3.2.3.5.3 Meta Veri Doğrulama
+
+    Meta Veri İncelemesi: Doğruluklarını ve tutarlılıklarını doğrulamak için zaman damgaları, dosya öznitelikleri ve sahiplik bilgileri dahil olmak üzere adli görüntüdeki dosyalar ve dizinlerle ilişkili meta verileri inceleyin.
+    Kaynak Verilerle Karşılaştırma: Adli görüntüden çıkarılan meta verileri, orijinal verileri hizaladıklarından ve doğru bir şekilde temsil ettiklerinden emin olmak için görüntülemeden önce hedef cihazda gözlemlenen meta verilerle karşılaştırın.
+
+3.2.3.5.4 Dosya Sistemi Analizi
+
+    Dosya Sistemi Bütünlük Kontrolü: Unix tabanlı sistemler için fsck veya Windows sistemleri için chkdsk gibi uygun araçları veya yardımcı programları kullanarak adli görüntü üzerinde dosya sistemi bütünlüğü kontrolleri gerçekleştirin ve dosya sistemi hatalarını veya tutarsızlıklarını tespit edip onarın.
+    Dosya Yapılarının Doğrulanması: Adli görüntü içindeki dosya yapılarının bütünlüğünü ve tutarlılığını doğrulayın, dosyaların düzgün bir şekilde düzenlendiğinden ve sonraki analizler için erişilebilir olduğundan emin olun.
+
+3.2.3.5.5 Montaj ve Erişim Testi
+
+    Adli Görüntü Montajı: Adli inceleme için kullanılabilirliğini ve erişilebilirliğini doğrulamak için adli görüntüyü bir adli iş istasyonuna veya analiz sistemine monte edin.
+    Erişim Testi: Adli analiz araçları ve yazılımları kullanılarak okunabildiklerinden, kopyalanabildiklerinden ve analiz edilebildiklerinden emin olmak için takılı adli görüntü içindeki dosyaların ve dizinlerin erişilebilirliğini test edin.
+
+3.2.3.5.6 Veri Bütünlüğü Doğrulaması
+
+    Veri Tutarlılığı Kontrolleri: Tüm sektörlerin ve veri yapılarının sağlam ve hedef cihazdaki orijinal verilerle tutarlı olduğundan emin olmak için adli görüntü üzerinde veri tutarlılığı kontrolleri gerçekleştirin.
+    Kaynak Verilerle Karşılaştırma: Veri bütünlüğünü ve doğruluğunu doğrulamak için görüntülemeden önce adli görüntüden çıkarılan örnek dosyaları veya veri segmentlerini hedef cihazdaki benzerleriyle karşılaştırın.
+
+3.2.3.5.7 Raporlama ve Dokümantasyon
+
+    Doğrulama Sonuçları: Karma karşılaştırma sonuçları, meta veri doğrulama bulguları, dosya sistemi analiz sonuçları ve veri bütünlüğü doğrulama sonuçları dahil olmak üzere doğrulama ve onaylama sürecinin sonuçlarını belgeleyin.
+    Kalite Güvence Dokümantasyonu: Kullanılan yöntemler, elde edilen sonuçlar ve süreç sırasında karşılaşılan gözlemler veya sorunlar da dahil olmak üzere gerçekleştirilen doğrulama ve onaylama prosedürlerinin ayrıntılı dokümantasyonunu muhafaza edin.
+
+3.2.3.5.8 Gözetim Zinciri Güncellemesi
+
+    Dokümantasyon Bakımı: Adli görüntünün bütünlüğünü ve gerçekliğini doğrulamak ve dijital kanıt olarak kabul edilebilirliğini sağlamak için atılan adımları kaydederek doğrulama ve onaylama sürecini yansıtacak şekilde gözetim zinciri belgelerini güncelleyin.
+
+3.2.3.6 Hata İşleme ve Acil Durum Planlaması
+
+    Hata Tespiti ve Çözümü: Görüntüleme işlemi sırasında ortaya çıkabilecek okuma hataları, cihaz arızaları veya yazılım çökmeleri gibi hataları veya sorunları uygun sorun giderme tekniklerini ve araçlarını kullanarak tespit edin ve çözün.
+    Beklenmedik Durum Planlaması: Olası görüntüleme hatalarını veya kesintilerini ele almak için yedekli görüntüleme denemeleri, alternatif görüntüleme yöntemleri veya daha önce elde edilen görüntülerin yedek kopyaları dahil olmak üzere acil durum planları ve yedekleme stratejileri geliştirin.
+
+3.2.3.6.1 Hata Tespiti
+
+    Gerçek Zamanlı İzleme: Okuma hataları, cihaz arızaları veya görüntüleme aracı çökmeleri gibi prosedür sırasında ortaya çıkabilecek hataları, anormallikleri veya sorunları tespit etmek için görüntüleme sürecini gerçek zamanlı olarak sürekli izleyin.
+    Uyarı Sistemleri: Tespit edilen hataları veya anormallikleri otomatik olarak işaretlemek ve araştırmacılara bildirmek için görüntüleme aracı veya izleme yazılımı içinde uyarı sistemleri veya bildirimler uygulayın.
+
+3.2.3.6.2 Hata Sınıflandırması
+
+    Hata Tanımlama: Farklı hata türlerini doğalarına, ciddiyetlerine ve görüntüleme süreci ve adli görüntünün bütünlüğü üzerindeki etkilerine göre tanımlayın ve sınıflandırın.
+    Yaygın Hata Türleri: Yaygın hata türleri arasında okuma hataları, yazma hataları, cihaz iletişim arızaları, donanım arızaları veya yazılım çakışmaları yer alabilir.
+
+3.2.3.6.3 Sorun Giderme Prosedürleri
+
+    Kök Neden Analizi: Tespit edilen hataların altında yatan nedenleri belirlemek için kök neden analizi yapın ve donanım arızaları, yazılım hataları, çevresel koşullar veya kullanıcı hataları gibi faktörleri araştırın.
+    Teşhis Araçları: Disk durumu izleme araçları, sistem günlükleri, hata raporlama mekanizmaları ve yerleşik tanılama testleri gibi hataları tanılamak ve gidermek için tanılama araçlarını ve yardımcı programları kullanın.
+
+3.2.3.6.4 Hata Çözümü
+
+    Acil Eylem: Hataları gidermek ve görüntüleme işlemini normal çalışmasına döndürmek için derhal harekete geçin; başarısız sektörleri yeniden denemek, görüntüleme aracını yeniden başlatmak veya hatalı donanım bileşenlerini değiştirmek gibi uygun düzeltici önlemleri uygulayın.
+    Dokümantasyon: Hata işleme faaliyetlerinin kapsamlı bir kaydını tutmak için karşılaşılan her hatanın nedenini, atılan çözüm adımlarını ve görüntüleme süreci üzerindeki etkisini içeren ayrıntıları belgeleyin.
+
+3.2.3.6.5 Acil Durum Planlaması
+
+    Hazırlık Değerlendirmesi: İnceleme ekibinin ve altyapının görüntüleme süreci sırasında beklenmedik hatalara veya aksaklıklara etkili bir şekilde yanıt vermeye hazır olup olmadığını değerlendirin.
+    Acil Durum Planları: Olası hataları veya kesintileri ele almak için yedek görüntüleme girişimleri, alternatif görüntüleme yöntemleri veya yedekleme prosedürleri dahil olmak üzere acil durum planları ve müdahale stratejileri geliştirin.
+    Kaynak Tahsisi: Acil durum planlarını desteklemek ve görüntüleme sürecinin devamlılığını sağlamak için ek görüntüleme ekipmanı, yedek depolama ortamı veya teknik destek personeli gibi yeterli kaynakları tahsis edin.
+
+3.2.3.6.6 Beklenmedik Durum Önlemlerinin Belgelendirilmesi
+
+    Beklenmedik Durum Planı Dokümantasyonu: Adım adım talimatlar, yükseltme protokolleri ve kaynak tahsis stratejileri de dahil olmak üzere görüntüleme hataları ve kesintilerinin ele alınmasına yönelik ayrıntılı acil durum planlarını ve müdahale prosedürlerini belgeleyin.
+    Eğitim ve Farkındalık: Beklenmedik durum planlarına ve müdahale prosedürlerine aşinalık sağlamak için inceleme ekibi üyelerine eğitim ve farkındalık oturumları düzenleyerek ortaya çıkan beklenmedik durumlara etkili bir şekilde yanıt vermelerini sağlayın.
+
+3.2.3.6.7 Hata Sonrası Analiz
+
+    Çıkarılan Dersler: Alınan dersleri ve süreç iyileştirme fırsatlarını belirlemek için hata sonrası analiz ve bilgilendirme oturumları düzenleyin, acil durum planlarının ve müdahale stratejilerinin hataları ve aksaklıkları azaltmadaki etkinliğini değerlendirin.
+    Süreç Optimizasyonu: Hata işleme prosedürlerini optimize etmek, acil durum planlarını güncellemek ve gelecekteki görüntüleme görevleri ve adli soruşturmalar için genel hazırlığı artırmak için hata sonrası analizden elde edilen bilgileri kullanın.
+
+3.2.4 Doğrulama ve Geçerleme
+
+    Doğrulama Kontrolleri: Orijinal cihaza kıyasla doğruluğunu, eksiksizliğini ve bütünlüğünü sağlamak için oluşturulan adli görüntü üzerinde doğrulama kontrolleri gerçekleştirin.
+    Hash Doğrulaması: Hem orijinal cihaz hem de adli görüntü için hash değerlerini hesaplayın ve veri bütünlüğünü ve gerçekliğini doğrulamak için bunları karşılaştırın.
+    Doğrulama Testi: Adli görüntünün başarılı bir şekilde takılabildiğinden ve erişilebildiğinden emin olmak için doğrulama testi yapın ve daha fazla analiz için kullanılabilirliğini ve güvenilirliğini doğrulayın.
+
+3.2.4.1 Doğrulama Süreci
+
+    Araç İşlevselliği Doğrulaması: Beklendiği gibi çalıştıklarından emin olmak için test vakaları ve senaryolar yürüterek dijital adli tıp araçlarının işlevselliğini doğrulayın.
+    Veri Bütünlüğü Doğrulaması: Elde edilen verileri orijinal kaynaklarla karşılaştırarak doğruluğunu ve eksiksizliğini teyit etmek suretiyle dijital kanıtların bütünlüğünü doğrulayın.
+    Araç Yapılandırma Doğrulaması: Doğru sonuçlar elde etmek için araçların soruşturma gerekliliklerine ve en iyi uygulamalara göre doğru şekilde yapılandırıldığını doğrulayın.
+
+3.2.4.2 Doğrulama Süreci
+
+    Araç Doğrulama: Doğruluk, güvenilirlik ve tutarlılığı onaylamak için sonuçlarını bilinen standartlar veya referans verilerle karşılaştırarak dijital adli tıp araçlarını doğrulayın.
+    Yöntem Doğrulama: Etkinliği ve tekrarlanabilirliği sağlamak için akran değerlendirmeleri, test vakaları ve doğrulama egzersizleri yaparak adli inceleme yöntemlerini ve tekniklerini doğrulayın.
+    Çapraz Doğrulama: Birden fazla kaynak arasında tutarlılık ve güvenilirliği doğrulamak için farklı araçlardan, yöntemlerden veya incelemecilerden elde edilen bulguları ve sonuçları çapraz doğrulayın.
+
+3.2.4.3 Gözetim Zinciri Doğrulaması
+
+    Dokümantasyon İncelemesi: Adli süreç boyunca delil saklama, kontrol ve transferinin kronolojik dokümantasyonunu doğrulamak için gözetim zinciri dokümantasyonunu inceleyin.
+    Denetim İzi Analizi: Dijital kanıtların bütünlüğünü ve gerçekliğini doğrulamak için denetim izlerini ve günlükleri analiz edin ve işleme sırasında tahrif edilmediğinden veya değiştirilmediğinden emin olun.
+    Gözetim Zinciri Dokümantasyon Doğrulaması: Tutarlılığı ve yasal gerekliliklere uygunluğu sağlamak için adli muayene kayıtları ve vaka belgeleri ile gözetim zinciri belgelerinin doğruluğunu ve eksiksizliğini doğrulayın.
+
+3.2.4.4 Kalite Güvencesi
+
+    Kalite Kontrol Kontrolleri: Hataları, tutarsızlıkları veya belirlenen standartlardan sapmaları belirlemek ve düzeltmek için adli süreçler, prosedürler ve çıktılar üzerinde kalite kontrol kontrolleri gerçekleştirin.
+    Akran İncelemesi: En iyi uygulamalara, kalite standartlarına ve düzenleyici gerekliliklere uyulmasını sağlamak için adli incelemelerin akran incelemelerini ve denetimlerini gerçekleştirin.
+    Sürekli İyileştirme: Adli operasyonların etkinliğini ve verimliliğini artırmak için geri bildirimlere, alınan derslere ve kalite güvence bulgularına dayalı olarak sürekli iyileştirme mekanizmaları uygulayın.
+
+3.2.4.5 Paydaş Katılımı
+
+    Paydaş Geri Bildirimi: Adli analistler, müfettişler, yasal temsilciler ve yönetim de dahil olmak üzere ilgili paydaşlardan, kullanıcı ihtiyaçları ve beklentileriyle uyumu sağlamak için doğrulama ve geçerleme faaliyetleri hakkında geri bildirim isteyin.
+    Paydaş Doğrulaması: Adli bulguların ve sonuçların gözden geçirilmesi, doğrulanması ve kabul edilmesi için fırsatlar sağlayarak paydaşları doğrulama sürecine dahil edin.
+
+3.2.4.6 Dokümantasyon ve Raporlama
+
+    Doğrulama ve Geçerleme Raporları: Doğrulama ve onaylama faaliyetlerini, bulguları ve sonuçları belgeleyen kapsamlı raporlar hazırlayarak adli süreçlerin şeffaflığını, hesap verebilirliğini ve denetlenebilirliğini sağlayın.
+    Bulguların Belgelendirilmesi: Doğrulama ve onaylama süreçleri sırasında karşılaşılan her türlü tutarsızlık, anormallik veya sorunu, bunları gidermek için alınan düzeltici önlemlerle birlikte belgeleyin.
+
+3.2.4.7 Uyumluluk Güvencesi
+
+    Yasal ve Düzenleyici Uyumluluk: Doğrulama ve onaylama faaliyetlerinin veri gizliliği yasaları, kanıt standartları ve gözetim zinciri protokolleri dahil olmak üzere geçerli yasal ve düzenleyici gerekliliklere uygun olmasını sağlayın.
+    Kalite Yönetim Sistemi Uyumluluğu: Adli faaliyetlerde tutarlılığı ve bütünlüğü korumak için adli operasyonları yöneten kurumsal kalite yönetim sistemleri, politikaları ve prosedürleri ile uyumluluğu sağlayın.
+
+3.2.5 Gözetim Zinciri Dokümantasyonu
+
+    Dokümantasyon Standartları: Tarih, saat, yer, ilgili personel ve kullanılan görüntüleme aracı gibi ayrıntılar da dahil olmak üzere tüm görüntüleme sürecini belgeleyin.
+    Gözetim Zinciri Bakımı: Kanıt değerini ve bütünlüğünü korumak için tüm taşıma ve aktarma faaliyetlerini belgeleyerek adli görüntü için güvenli bir gözetim zinciri sağlayın.
+    Yasal Uygunluk: Tüm dokümantasyonun, kanıt kuralları ve veri gizliliği yasaları dahil olmak üzere dijital kanıtların işlenmesi ve korunmasını düzenleyen yasal ve düzenleyici gerekliliklere uygun olduğundan emin olun.
+
+3.2.5.1 Dokümantasyon Gereklilikleri
+
+    Yasal ve Düzenleyici Uyumluluk: Federal Kanıt Kuralları (FRE) veya yerel kanıt kuralları gibi kanıtların saklanmasının belgelenmesi ve yönetimini düzenleyen ilgili yasa, yönetmelik ve standartlara uyulmasını sağlayın.
+    Dahili Politikalar ve Prosedürler: Gözetim zincirinin belgelenmesi ve sürdürülmesi için kurum ya da soruşturma kurumu tarafından oluşturulan dahili politika ve prosedürlere uyun.
+
+3.2.5.2 İlk Dokümantasyon
+
+    Gözetim Zinciri Formu Oluşturma: Tanım, durum, konum, gözetim transferleri ve zaman damgaları dahil olmak üzere kanıtla ilgili temel bilgileri kaydetmek için standart bir gözetim zinciri formu veya belge şablonu oluşturun.
+    İlk Kayıt: Kanıtın kaynağı, elde edilme tarihi ve saati, yeri ve saklayanın ya da el koyan memurun kimliği de dahil olmak üzere kanıtın ilk muhafazasını belgeleyin.
+
+3.2.5.3 Velayet Devri Dokümantasyonu
+
+    Transfer Kayıtları: Müfettişler, adli tıp analistleri, delil saklama görevlileri ve depolama tesisleri arasındaki devir teslimler de dahil olmak üzere, delillerin velayetine veya mülkiyetine ilişkin tüm devir teslimleri belgelendirin.
+    Doğrulama ve Onaylama: Hesap verebilirliği ve sorumluluğu tesis etmek için delil saklama görevlilerinin imza ya da elektronik kimlik doğrulama yöntemleriyle delilleri aldıklarını doğrulamalarını ve kabul etmelerini zorunlu kılın.
+
+3.2.5.4 Kanıt İşleme Dokümantasyonu
+
+    Elleçleme Prosedürleri: Kanıt yönetimi faaliyetlerinin ayrıntılı bir kaydını tutmak için inceleme, analiz, test, paketleme, etiketleme ve depolama dahil olmak üzere kanıtların işlenmesiyle ilgili olarak gerçekleştirilen tüm eylemleri belgelendirin.
+    Dokümantasyon Standartları: Kanıt işleme prosedürlerinin ve ilgili meta verilerin kaydedilmesinde tutarlılık ve netlik sağlamak için standartlaştırılmış dokümantasyon uygulamalarına ve formatlarına uyun.
+
+3.2.5.5 Güvenlik ve Erişim Kontrolleri Dokümantasyonu
+
+    Erişim Günlükleri: Kanıtlara kimin ve ne zaman eriştiğini takip etmek için kanıt depolama tesislerine, kanıt konteynerlerine ve münferit kanıt öğelerine yapılan tüm erişimlerin günlüklerini veya kayıtlarını tutun.
+    Erişim Yetkilendirmesi: Hassas veya kısıtlı kanıtlara erişim için onaylar, izinler ve gerekçeler de dahil olmak üzere kanıtlara erişim için yetkilendirme sürecini belgelendirin.
+
+3.2.5.6 Muhafaza Dokümantasyonu
+
+    Koruma Önlemleri: Depolama sırasında kanıtların bütünlüğünü ve güvenliğini korumak için çevresel kontroller, kurcalanmayı önleyen mühürler ve güvenlik protokolleri de dahil olmak üzere alınan önlemleri belgeleyin.
+    Muhafaza Kayıtları: Muhafaza gerekliliklerine sürekli uyumu sağlamak için periyodik denetimler, bakım kontrolleri ve çevresel izleme gibi muhafaza faaliyetlerinin kayıtlarını tutun.
+
+3.2.5.7 Gözetim Zinciri Güncellemeleri
+
+    Zamanında Güncellemeler: Delillerin muhafazasında, konumunda veya durumunda değişiklik olduğunda gözetim zinciri belgelerinin derhal ve doğru bir şekilde güncellendiğinden emin olun.
+    Değişikliklerin Açıklanması: Gözetim zinciri kayıtlarında yapılan her türlü değişiklik veya güncelleme, değişikliklerin nedenleri ve güncellemeleri yapan kişinin kimliği de dahil olmak üzere açıkça not edilmelidir.
+
+3.2.5.8 Nihai Dokümantasyon
+
+    Kapanış Dokümantasyonu: Kanıtın nihai olarak elden çıkarılması, aktarılması veya imha edilmesi de dahil olmak üzere her bir kanıt için gözetim zincirinin kapatıldığını uygun şekilde belgeleyin.
+    Nihai Gözetim Zinciri Raporu: Her bir delil parçası için tüm gözetim transferlerini ve işleme faaliyetlerini özetleyen nihai bir gözetim zinciri raporu hazırlayın ve elde edilmesinden imhasına kadar delil gözetiminin kapsamlı bir denetim izini sağlayın.
+
+3.2.6 Depolama ve Yedekleme
+
+    Güvenli Depolama: Adli görüntüyü, yetkisiz erişimi, veri kaybını veya bozulmasını önlemek için kısıtlı erişime ve çevresel kontrollere sahip güvenli bir depolama ortamında saklayın.
+    Artıklık Önlemleri: Adli görüntünün yedek kopyalarını oluşturun ve yedeklilik ve felaket kurtarma yeteneklerini sağlamak için bunları ayrı fiziksel konumlarda veya güvenli yedekleme ortamlarında saklayın.
+    Şifreleme: Saklanan adli görüntüleri, yetkisiz erişime veya ifşaya karşı gizliliklerini ve bütünlüklerini korumak için güçlü şifreleme algoritmaları ve protokolleri kullanarak şifreleyin.
+
+3.2.6.1 Depolama Altyapısı Değerlendirmesi
+
+    Altyapı Değerlendirmesi: Kapasite, ölçeklenebilirlik, güvenilirlik ve güvenlik özelliklerini belirlemek için fiziksel ve dijital depolama tesisleri de dahil olmak üzere mevcut depolama altyapısını değerlendirin.
+    Uyumluluk Kontrolü: Depolama tesislerinin, veri gizliliği yasaları ve gözetim zinciri protokolleri gibi hassas veya gizli verilerin depolanmasını düzenleyen ilgili yasalara, yönetmeliklere ve endüstri standartlarına uygun olduğundan emin olun.
+
+3.2.6.2 Depolama Gereksinimleri Tanımı
+
+    Veri Sınıflandırma: Uygun depolama çözümlerini ve erişim kontrollerini belirlemek için dijital kanıtları hassasiyetlerine, önemlerine ve saklama gereksinimlerine göre sınıflandırın.
+    Saklama Politikaları: Yasal, düzenleyici ve operasyonel gereklilikleri göz önünde bulundurarak farklı dijital kanıt türlerini saklama sürelerini ve koşullarını belirleyen saklama politikaları oluşturun.
+
+3.2.6.3 Depolama Çözümü Seçimi
+
+    Depolama Teknolojisi Değerlendirmesi: Dijital kanıtları depolamak için en uygun çözümü belirlemek üzere şirket içi sunucular, bulut depolama, ağa bağlı depolama (NAS) ve depolama alanı ağları (SAN'lar) gibi çeşitli depolama teknolojilerini değerlendirin.
+    Güvenlik ve Uyumluluk Özellikleri: Dijital kanıtların bütünlüğünü ve gizliliğini korumak için güçlü güvenlik özelliklerine, şifreleme yeteneklerine, erişim kontrollerine ve denetim günlüğüne sahip depolama çözümlerine öncelik verin.
+
+3.2.6.4 Depolama Uygulaması
+
+    Altyapı Dağıtımı: Seçilen depolama çözümlerini tasarım özelliklerine ve uygulama planlarına göre dağıtın, uygun yapılandırma, entegrasyon ve testleri sağlayın.
+    Veri Geçişi: Veri bütünlüğünü, erişim kontrollerini ve gözetim zinciri belgelerini korurken mevcut dijital kanıtları ve vaka verilerini yeni depolama altyapısına taşıyın.
+
+3.2.6.5 Yedekleme Stratejisi Geliştirme
+
+    Yedekleme Gereksinimleri Analizi: Kapsamlı bir yedekleme stratejisi geliştirmek için veri saklama politikaları, kurtarma hedefleri ve yedekleme sıklığı dahil olmak üzere yedekleme gereksinimlerini analiz edin.
+    Yedekleme Çözümü Seçimi: Yedekleme yazılımı, teyp sürücüleri, disk tabanlı yedekleme cihazları veya bulut yedekleme hizmetleri gibi yedekleme çözümlerini uyumluluk, güvenilirlik ve ölçeklenebilirlik gereksinimlerine göre seçin.
+
+3.2.6.6 Yedekleme Uygulaması
+
+    Yedekleme Yapılandırması: Otomatik yedeklemeleri planlamak, yedekleme politikalarını tanımlamak ve yedekleme depolama konumlarını yönetmek için yedekleme sistemlerini ve yazılımlarını yapılandırın.
+    Yedekleme Testi: Veri kaybı veya bozulması durumunda veri bütünlüğünü, güvenilirliğini ve kurtarılabilirliğini sağlamak için yedekleme prosedürlerini ve kurtarma süreçlerini test edin.
+
+3.2.6.7 Veri Saklama ve Arşivleme
+
+    Saklama Politikası Uygulama: Dijital kanıtların gerekli süre boyunca saklanmasını ve artık ihtiyaç duyulmadığında güvenli bir şekilde imha edilmesini sağlamak için veri saklama politikalarını uygulayın.
+    Arşivleme Prosedürleri: Dijital kanıtları ve vaka verilerini uzun vadeli depolama havuzlarında veya çevrimdışı ortamlarda arşivleyin, ileride erişim ve referans için belirlenmiş arşivleme prosedürlerini ve meta veri standartlarını takip edin.
+
+3.2.6.8 Güvenlik ve Erişim Kontrolleri
+
+    Erişim Kontrolü Uygulaması: Depolanan dijital kanıtlara erişimi kısıtlamak için erişim kontrolleri ve izinleri uygulayarak yalnızca yetkili personelin verileri görüntüleyebilmesini, değiştirebilmesini veya silebilmesini sağlayın.
+    Veri Şifreleme: Hassas bilgileri korumak için güçlü şifreleme algoritmaları ve anahtar yönetimi uygulamaları kullanarak saklanan verileri yetkisiz erişim veya ifşadan korumak için şifreleyin.
+
+3.2.6.9 İzleme ve Bakım
+
+    İzleme Sistemleri: Anormallikleri, yetkisiz erişim girişimlerini veya depolama arızalarını tespit etmek için izleme sistemleri ve uyarılar uygulayarak depolama altyapısının proaktif bir şekilde yönetilmesini sağlayın.
+    Düzenli Bakım: Depolama sistemlerinin optimum performansını ve güvenilirliğini sağlamak için depolama kapasitesi izleme, disk sağlık kontrolleri ve yazılım güncellemeleri gibi düzenli bakım görevleri gerçekleştirin.
