@@ -147,21 +147,178 @@ Certainly! Here's a more detailed outline of the Identification of Devices phase
 - **Physical Inspection**: Conduct physical inspections of relevant areas, such as data centers, server rooms, and employee workspaces, to identify devices not captured through automated methods.
 - **Labeling and Tagging**: Label and tag identified devices with unique identifiers to track their location and ownership throughout the investigation process.
 
+2.3.1 Definition of Device Identification Scope
+
+    Scope Clarification: Define the scope of device identification, specifying the types of devices to be identified, such as computers, mobile devices, storage devices, and IoT devices.
+    Objectives Setting: Establish clear objectives for device identification, including locating all relevant devices within the scope, identifying their characteristics, and assessing their potential relevance to the investigation.
+
+2.3.2 Network Device Discovery
+
+    Network Scanning: Conduct network scans using specialized tools to discover devices connected to the network, including IP-based scans, MAC address scans, and service enumeration.
+    Device Enumeration: Enumerate discovered devices, identifying their IP addresses, MAC addresses, hostnames, and open ports, and categorizing them based on their role and function within the network.
+
+2.3.3 Physical Device Inspection
+
+    Physical Examination: Perform physical inspections of the premises to identify devices that may not be visible on the network, such as standalone computers, servers, peripherals, and storage devices.
+    Label and Serial Number Verification: Verify device labels and serial numbers against inventory records or asset management databases to confirm ownership and track device history.
+
+2.3.4 Endpoint Detection and Response (EDR)
+
+    EDR Deployment: Deploy endpoint detection and response (EDR) solutions on endpoints within the network to monitor and detect suspicious or unauthorized device activity.
+    Anomaly Detection: Analyze EDR alerts and logs to identify anomalies in device behavior, such as unauthorized access attempts, malware infections, or data exfiltration attempts.
+
+2.3.5 Wireless Device Detection
+
+    Wireless Network Analysis: Analyze wireless network traffic to detect and identify devices connected to Wi-Fi networks, including laptops, smartphones, tablets, and IoT devices.
+    SSID Enumeration: Enumerate wireless network SSIDs and access points, identifying devices associated with each network and their locations.
+
+2.3.6 Data Center and Cloud Device Discovery
+
+    Data Center Inventory: Inventory devices hosted in data centers or cloud environments, including virtual machines, containers, storage volumes, and network appliances.
+    Cloud Service Enumeration: Enumerate cloud services and platforms used by the organization, identifying devices provisioned within cloud infrastructure and their configurations.
+
+2.3.7 Documentation and Reporting
+
+    Device Inventory Documentation: Document the results of device identification activities, including an inventory of identified devices, their characteristics, locations, and connections.
+    Reporting: Prepare a comprehensive report summarizing the findings of device identification, including an overview of identified devices, their roles, and potential relevance to the investigation, to provide stakeholders with insights into the digital environment under investigation.
+
+2.3.8 Stakeholder Communication
+
+    Information Sharing: Share the results of device identification with relevant stakeholders, including investigators, incident responders, IT administrators, legal counsel, and management, to facilitate informed decision-making and planning for subsequent phases of the investigation.
+    Feedback Solicitation: Solicit feedback from stakeholders on the device identification findings, addressing any questions, concerns, or additional information needs to ensure alignment with investigative objectives and requirements.
+
 #### 2.4 Data Collection Points
 - **Data Sources Identification**: Identify potential data sources on each device, including storage media, operating systems, applications, and network connections.
 - **Data Custodianship**: Determine the custodianship of each device and establish communication channels with responsible personnel to coordinate data collection activities.
+
+2.4.1 Identification of Data Sources
+
+    Data Source Analysis: Analyze the results of asset discovery and device identification to identify potential data sources within the digital environment, including devices, applications, servers, databases, network shares, and cloud services.
+    Relevance Assessment: Evaluate the relevance of each data source to the investigation based on its potential to contain relevant evidence or insights related to the incident under investigation.
+
+2.4.2 Selection of Data Collection Methods
+
+    Forensic Imaging: Prioritize data sources for forensic imaging, focusing on devices and storage media likely to contain critical evidence, such as computers, mobile devices, servers, and removable storage devices.
+    Live Data Collection: Identify data sources requiring live data collection methods, such as volatile memory analysis, network packet capture, or real-time monitoring of endpoint activity, to capture dynamic or transient evidence.
+
+2.4.3 Data Collection Planning
+
+    Data Collection Strategy: Develop a comprehensive data collection plan outlining the objectives, scope, methods, and timelines for collecting data from identified sources.
+    Legal and Regulatory Compliance: Ensure that data collection activities comply with applicable laws, regulations, and organizational policies governing data privacy, confidentiality, and chain of custody protocols.
+
+2.4.4 Collection Point Preparation
+
+    Device Preparation: Prepare data collection devices, tools, and equipment for deployment, including forensic imaging devices, write blockers, network capture appliances, and data collection software.
+    Endpoint Configuration: Configure endpoints and devices for data collection, ensuring that necessary permissions, credentials, and access controls are in place to facilitate data access and retrieval.
+
+2.4.5 Data Collection Execution
+
+    Forensic Imaging: Perform forensic imaging of targeted devices and storage media using industry-standard imaging tools and procedures, ensuring the preservation of evidence integrity and chain of custody.
+    Live Data Collection: Conduct live data collection activities, such as memory acquisition, network packet capture, or system log analysis, to capture volatile or real-time evidence relevant to the investigation.
+
+2.4.6 Network Traffic Analysis
+
+    Packet Capture: Capture and analyze network traffic using packet capture tools and network monitoring solutions to identify suspicious or malicious activity, communication patterns, and data transfers.
+    Traffic Reconstruction: Reconstruct network traffic flows and communication sessions to trace the origin, destination, and content of data exchanges within the network.
+
+2.4.7 Cloud Data Collection
+
+    Cloud Service Access: Access and collect data from cloud services and platforms used by the organization, such as email providers, file storage services, collaboration tools, and cloud-based applications.
+    API Integration: Leverage application programming interfaces (APIs) and cloud service integration tools to extract data from cloud environments, ensuring compliance with provider policies and security controls.
+
+2.4.8 Documentation and Reporting
+
+    Data Collection Records: Document the details of data collection activities, including the sources, methods, timestamps, and personnel involved in collecting digital evidence.
+    Chain of Custody Documentation: Maintain accurate chain of custody records for all collected data, documenting custody transfers, handling procedures, and storage locations to support evidence integrity and admissibility.
+
+2.4.9 Stakeholder Communication
+
+    Progress Updates: Provide regular updates to relevant stakeholders on the progress of data collection activities, including any challenges, findings, or deviations from the planned approach.
+    Data Sharing: Share collected data and preliminary findings with investigators, incident responders, legal counsel, and other stakeholders to facilitate collaborative analysis and decision-making in support of the investigation's objectives.
 
 #### 2.5 Documentation and Chain of Custody
 - **Inventory Documentation**: Document all identified devices and their associated metadata, including make, model, serial number, and location.
 - **Chain of Custody Establishment**: Establish a secure chain of custody for each identified device, documenting all handling and transfer activities to maintain the integrity and admissibility of evidence.
 
+2.5.1 Documentation Planning
+
+    Documentation Scope: Define the scope of documentation, including the types of records to be maintained, such as case documentation, evidence logs, chain of custody forms, and investigative reports.
+    Documentation Standards: Establish documentation standards and guidelines, including formats, templates, and metadata requirements, to ensure consistency, accuracy, and completeness of documentation artifacts.
+
+2.5.2 Chain of Custody Establishment
+
+    Initial Record Creation: Create chain of custody forms or records for each piece of digital evidence collected, including detailed information such as description, location, custody transfers, timestamps, and identification of custodians.
+    Chain of Custody Labels: Affix unique identifiers or labels to evidence containers or storage media to track their chain of custody and distinguish them from other items collected during the investigation.
+
+2.5.3 Documentation Maintenance
+
+    Record Updates: Update documentation records promptly and accurately whenever there are changes in the custody, location, or condition of digital evidence, ensuring a complete and up-to-date chain of custody.
+    Record Retention: Maintain documentation records for the duration of the investigation and beyond, in accordance with legal, regulatory, and organizational retention policies and requirements.
+
+2.5.4 Chain of Custody Verification
+
+    Documentation Review: Review chain of custody documentation regularly to verify the accuracy, completeness, and consistency of recorded information, identifying any discrepancies or errors for correction.
+    Chain of Custody Audits: Conduct periodic audits or reviews of chain of custody records to ensure compliance with established procedures, identify potential gaps or weaknesses, and mitigate risks to evidence integrity.
+
+2.5.5 Chain of Custody Reporting
+
+    Chain of Custody Reports: Generate chain of custody reports summarizing the movement and handling of digital evidence throughout the investigative process, providing a comprehensive audit trail for evidentiary purposes.
+    Reporting Standards: Adhere to reporting standards and guidelines established by regulatory bodies, legal authorities, or organizational policies, ensuring that chain of custody reports meet admissibility requirements in court proceedings.
+
+2.5.6 Documentation of Analysis and Findings
+
+    Analysis Records: Document the results of forensic analysis, examination findings, and investigative conclusions in detailed analysis reports, including methodologies used, tools employed, and interpretations made.
+    Findings Documentation: Record any relevant findings, observations, or insights derived from the analysis of digital evidence, supporting investigative hypotheses, conclusions, and recommendations.
+
+2.5.7 Documentation Retention and Archiving
+
+    Retention Policies: Adhere to established retention policies for documentation and chain of custody records, specifying retention periods, storage locations, and access controls to ensure compliance with legal and regulatory requirements.
+    Archiving Procedures: Archive documentation and chain of custody records securely in long-term storage repositories, maintaining their integrity, accessibility, and confidentiality for future reference and review.
+
+2.5.8 Stakeholder Communication
+
+    Documentation Sharing: Share documentation and chain of custody records with relevant stakeholders, including investigators, legal counsel, management, and external parties, as necessary to support the investigation's objectives and findings.
+    Feedback Solicitation: Solicit feedback from stakeholders on documentation and chain of custody records, addressing any questions, concerns, or requests for clarification to ensure alignment with investigative needs and expectations.
+
 #### 2.6 Risk Assessment
 - **Risk Identification**: Assess potential risks associated with the identification and handling of devices, including physical security, data privacy, and operational disruptions.
 - **Risk Mitigation Strategies**: Develop risk mitigation strategies to address identified risks and ensure the safety and integrity of devices and data throughout the investigation process.
 
-By following this detailed process, the bank can effectively identify and document all relevant devices and data sources, laying the foundation for a thorough and systematic digital forensic investigation.
+2.6.1 Risk Identification
 
-Certainly! Here's a detailed outline of the Secure Collection and Extraction of Data phase:
+    Threat Landscape Analysis: Conduct a comprehensive analysis of the threat landscape relevant to the digital forensic investigation, identifying potential threats, vulnerabilities, and attack vectors that may impact the investigation's objectives.
+    Asset Vulnerability Assessment: Assess the vulnerability of digital assets, systems, and infrastructure to potential risks, including data breaches, unauthorized access, data corruption, and tampering.
+
+2.6.2 Impact Analysis
+
+    Impact Identification: Identify potential impacts of security incidents or breaches on the organization, including financial losses, reputational damage, legal liabilities, operational disruptions, and regulatory sanctions.
+    Critical Asset Identification: Identify critical assets, data, and systems that are essential to the organization's operations, revenue generation, or compliance obligations, prioritizing their protection and risk mitigation efforts.
+
+2.6.3 Risk Evaluation
+
+    Risk Severity Assessment: Evaluate the severity of identified risks based on their potential impact on the organization's objectives, likelihood of occurrence, and mitigating controls in place.
+    Risk Probability Analysis: Analyze the probability of risks materializing based on historical data, threat intelligence, and contextual factors such as organizational size, industry sector, and geographical location.
+
+2.6.4 Risk Mitigation Planning
+
+    Mitigation Strategies Development: Develop risk mitigation strategies and action plans to address identified risks, including preventive, detective, and corrective measures aimed at reducing risk exposure and enhancing resilience.
+    Controls Implementation: Implement security controls, safeguards, and countermeasures to mitigate identified risks effectively, such as access controls, encryption, intrusion detection systems, and incident response protocols.
+
+2.6.5 Continual Monitoring and Review
+
+    Risk Monitoring: Establish mechanisms for ongoing monitoring and assessment of risks, including regular risk assessments, security audits, vulnerability scans, and threat intelligence feeds, to detect emerging risks and adapt mitigation strategies accordingly.
+    Performance Evaluation: Evaluate the effectiveness of risk mitigation measures and controls through periodic reviews, testing, and evaluation exercises, identifying areas for improvement and adjustment as needed.
+
+2.6.6 Stakeholder Communication
+
+    Risk Communication: Communicate risk assessment findings, mitigation strategies, and recommendations to relevant stakeholders, including management, decision-makers, and technical teams, to raise awareness and facilitate informed decision-making.
+    Risk Reporting: Prepare risk reports summarizing the results of risk assessment activities, including risk profiles, impact analysis, mitigation plans, and ongoing monitoring efforts, to provide stakeholders with insights into the organization's risk posture.
+
+2.6.7 Compliance Considerations
+
+    Regulatory Compliance: Ensure that risk assessment activities comply with applicable laws, regulations, industry standards, and contractual obligations governing data protection, privacy, and cybersecurity.
+    Audit Preparedness: Prepare for regulatory audits and compliance assessments by maintaining comprehensive documentation of risk assessment processes, findings, and remediation efforts to demonstrate due diligence and compliance readiness.
+
 
 ### 3. Secure Collection and Extraction of Data
 
