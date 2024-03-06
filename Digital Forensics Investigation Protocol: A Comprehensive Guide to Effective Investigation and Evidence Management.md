@@ -1,5 +1,4 @@
 
-Certainly! Below is a detailed procedure for digital forensics within a large bank:
 
 ### 1. Request and Authorization
 - **Investigation Order**: Receive and validate the investigation order from the appropriate authority within the bank, such as legal counsel or compliance officers.
