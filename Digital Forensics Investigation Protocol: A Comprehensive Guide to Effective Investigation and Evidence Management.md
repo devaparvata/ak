@@ -359,34 +359,287 @@ Certainly! Here's a detailed outline of the Examination and Analysis phase:
 - **Data Parsing**: Extract and parse data from forensic images and collected sources using specialized forensic software tools to organize and structure the information for analysis.
 - **Data Decryption**: Decrypt encrypted data using appropriate keys or passwords obtained during the collection process to access and analyze protected information.
 
+4.1.1 Data Acquisition Review
+
+    Data Integrity Verification: Verify the integrity of acquired data through checksum verification or digital signatures to ensure that data has not been altered or corrupted during acquisition.
+    Acquisition Log Analysis: Review acquisition logs and documentation to confirm the completeness and accuracy of acquired data, identifying any discrepancies or errors for further investigation.
+
+4.1.2 Data Decryption and Decompression
+
+    Decryption Procedures: Decrypt encrypted data using appropriate decryption keys or algorithms, ensuring compliance with legal and regulatory requirements governing data encryption and decryption.
+    Decompression Techniques: Decompress compressed data files using compatible decompression algorithms or tools to extract and access their contents for analysis and examination.
+
+4.1.3 Data Normalization and Standardization
+
+    Data Format Conversion: Convert acquired data into standardized formats, such as ASCII, Unicode, or XML, to facilitate compatibility with forensic analysis tools and software.
+    Metadata Extraction: Extract metadata from digital evidence, including file attributes, timestamps, and user information, to provide contextual information and enhance analysis capabilities.
+
+4.1.4 Data Deduplication and Filtering
+
+    Duplicate Identification: Identify and remove duplicate or redundant data entries within acquired datasets to streamline analysis and reduce processing overhead.
+    Keyword Filtering: Filter acquired data based on predefined keywords, search terms, or regular expressions to isolate relevant information and prioritize analysis efforts.
+
+4.1.5 Data Reconstruction and Restoration
+
+    File Fragmentation Handling: Reconstruct fragmented files or data fragments to restore complete files and ensure the integrity and usability of recovered data.
+    Corrupted Data Repair: Attempt to repair or recover corrupted data files using data recovery techniques, error correction algorithms, or specialized data repair tools to maximize data usability and analysis potential.
+
+4.1.6 Data Indexing and Cataloging
+
+    Index Creation: Create indexes or catalogs of acquired data to facilitate efficient search, retrieval, and analysis of specific information or artifacts during forensic examination.
+    Metadata Enrichment: Enhance data indexes with additional metadata attributes, such as file hashes, file types, and file paths, to improve searchability and metadata-driven analysis capabilities.
+
+4.1.7 Data Segmentation and Fragmentation
+
+    Segmentation Techniques: Segment acquired data into manageable units or chunks based on predefined criteria, such as file size, file type, or content category, to facilitate parallel processing and analysis.
+    Fragmentation Analysis: Analyze data fragmentation patterns to reconstruct file structures, identify file boundaries, and correlate fragmented data segments to reconstruct complete artifacts.
+
+4.1.8 Data Quality Assurance
+
+    Quality Control Checks: Perform quality assurance checks on processed data to ensure accuracy, completeness, and consistency of data processing results.
+    Data Validation: Validate processed data against original sources or reference data to confirm the fidelity and reliability of processing outcomes, addressing any discrepancies or inconsistencies as needed.
+
+4.1.9 Documentation and Reporting
+
+    Processing Logs: Document processing activities, including data acquisition, decryption, normalization, filtering, and quality assurance checks, to maintain a comprehensive audit trail of data processing activities.
+    Processing Reports: Generate processing reports summarizing the results of data processing activities, including details of processing steps, findings, and any anomalies or exceptions encountered, to provide stakeholders with insights into the processing workflow and outcomes.
+
 #### 4.2 Timeline Analysis
 - **Event Reconstruction**: Reconstruct timelines of events and activities related to the investigation using timestamps, logs, and metadata extracted from collected data sources.
 - **Sequence Identification**: Identify chronological sequences of events, actions, and interactions to establish causality, motive, and intent behind suspicious or anomalous activities.
 - **Timeline Visualization**: Visualize timelines using timeline analysis tools or software to facilitate pattern recognition, anomaly detection, and investigative decision-making.
+
+4.2.1 Timeline Construction
+
+    Event Correlation: Correlate timestamped events from acquired data sources, such as file creation/modification timestamps, log entries, network activity logs, and system event logs, to construct a chronological timeline of events.
+    Temporal Contextualization: Contextualize timeline events with additional metadata, such as user activity logs, application logs, and system configuration changes, to provide insight into the sequence of activities and their interrelationships.
+
+4.2.2 Event Sequencing
+
+    Chronological Ordering: Arrange timeline events in chronological order based on their timestamps or sequence numbers, ensuring that events are accurately represented in the timeline.
+    Event Reconstruction: Reconstruct event sequences and interactions between system entities, users, and applications to understand the progression of activities and identify any anomalies or irregularities.
+
+4.2.3 Time Discrepancy Resolution
+
+    Time Synchronization Analysis: Analyze timestamps from different data sources to identify discrepancies or inconsistencies in time settings, time zones, or clock drift, and adjust timestamps accordingly to ensure temporal accuracy.
+    Time Normalization: Normalize timestamps to a common time reference, such as Coordinated Universal Time (UTC), to facilitate accurate temporal comparisons and analysis across different data sources.
+
+4.2.4 Event Correlation and Link Analysis
+
+    Correlation Analysis: Identify correlations and relationships between timeline events, such as file accesses, network connections, user logins, and application executions, to uncover patterns of behavior or suspicious activities.
+    Link Analysis: Conduct link analysis to visualize and analyze relationships between entities, events, and artifacts within the timeline, such as user interactions with files, applications, or network resources.
+
+4.2.5 Anomaly Detection and Pattern Recognition
+
+    Anomaly Identification: Identify anomalous or irregular patterns within the timeline, such as deviations from normal user behavior, unusual access patterns, or suspicious system activity, using statistical analysis or machine learning algorithms.
+    Pattern Recognition: Recognize common attack patterns, tactics, and techniques employed by adversaries, such as data exfiltration, privilege escalation, or lateral movement, within the timeline to infer potential threat actor behavior.
+
+4.2.6 Event Reconstruction and Narrative Development
+
+    Event Reconstruction: Reconstruct the sequence of events leading up to and following significant incidents or security breaches, using timeline data to create a detailed narrative of the incident timeline.
+    Narrative Development: Develop a narrative description of the incident timeline, including key events, actions taken by actors, and impact on affected systems or assets, to provide context and support investigative findings.
+
+4.2.7 Temporal Analysis Tools and Techniques
+
+    Timeline Analysis Tools: Utilize specialized timeline analysis tools and software, such as forensic analysis platforms, timeline visualization tools, and temporal analysis plugins, to streamline data processing, visualization, and analysis tasks.
+    Temporal Analysis Techniques: Apply advanced temporal analysis techniques, such as time series analysis, frequency analysis, and trend analysis, to identify temporal patterns, trends, and anomalies within the timeline data.
+
+4.2.8 Documentation and Reporting
+
+    Timeline Documentation: Document the results of timeline analysis, including the constructed timeline, event sequences, temporal analysis findings, and narrative descriptions, to provide a comprehensive record of investigative findings.
+    Reporting: Prepare a detailed report summarizing the findings of timeline analysis, including key observations, identified anomalies, patterns of activity, and conclusions drawn from the analysis, to support investigative decision-making and communication with stakeholders.
 
 #### 4.3 Keyword Search and Filtering
 - **Keyword Identification**: Identify relevant keywords, phrases, and search terms based on the investigation's scope, objectives, and known or suspected indicators of wrongdoing.
 - **Search Execution**: Execute keyword searches across collected data sources to identify documents, communications, or other artifacts containing relevant information or evidence.
 - **Filtering and Refinement**: Refine search results through filtering, sorting, and categorization to isolate and prioritize potentially relevant information for further analysis.
 
+4.3.1 Keyword Identification and Prioritization
+
+    Keyword Selection: Identify relevant keywords, search terms, or phrases based on the nature of the investigation, including specific file names, user accounts, command-line commands, or indicators of compromise (IOCs).
+    Keyword Prioritization: Prioritize keywords based on their relevance, specificity, and potential significance to the investigation, focusing on terms likely to yield actionable results or evidence.
+
+4.3.2 Search Scope Definition
+
+    Data Source Identification: Identify the data sources and repositories to be searched for keyword matches, including file systems, email servers, database servers, network traffic logs, and application logs.
+    Search Parameters Definition: Define search parameters, such as file types, file locations, date ranges, and metadata attributes, to narrow the scope of keyword searches and improve search efficiency.
+
+4.3.3 Search Execution
+
+    Keyword Search Execution: Execute keyword searches across identified data sources using specialized search tools, forensic analysis software, or command-line utilities, applying specified search parameters and keyword lists.
+    Search Tool Selection: Select appropriate search tools or utilities based on the data sources and file formats being searched, ensuring compatibility, efficiency, and accuracy of search results.
+
+4.3.4 Filtering and Refinement
+
+    Search Result Filtering: Filter search results to remove irrelevant or false-positive matches, such as noise or irrelevant data, using exclusion filters, regular expressions, or metadata-based filtering criteria.
+    Refinement Strategies: Refine search queries and parameters iteratively based on initial search results and feedback from stakeholders, adjusting keyword lists, search criteria, or data sources as needed to improve search accuracy and relevance.
+
+4.3.5 Hits Review and Validation
+
+    Hit Review Process: Review search hits and keyword matches to validate their relevance, significance, and context within the investigation, considering factors such as timestamps, file paths, user associations, and content context.
+    False Positive Mitigation: Identify and mitigate false positives or misleading search hits by cross-referencing search results with corroborating evidence, conducting further analysis, or applying additional filtering criteria.
+
+4.3.6 Keyword Highlighting and Visualization
+
+    Hit Highlighting: Highlight keyword matches within search results or data previews to facilitate quick identification and review of relevant content, enabling investigators to focus on pertinent information.
+    Visualization Tools: Utilize visualization tools or techniques, such as word clouds, heat maps, or graph representations, to visualize keyword frequency, distribution, and relationships within the dataset, providing insights into keyword relevance and prevalence.
+
+4.3.7 Iterative Search and Feedback
+
+    Iterative Search Process: Conduct iterative keyword searches and filtering iterations based on feedback from stakeholders, refining search strategies, expanding or narrowing search scopes, and adjusting keyword lists to enhance search effectiveness.
+    Stakeholder Engagement: Solicit feedback from stakeholders on search results, keyword relevance, and investigative priorities, incorporating stakeholder input into subsequent search iterations and refinements.
+
+4.3.8 Documentation and Reporting
+
+    Search Parameters Documentation: Document the parameters and criteria used for keyword searches, including keyword lists, search scopes, filtering criteria, and search tool configurations, to maintain a record of search methodologies.
+    Search Results Summary: Summarize the results of keyword searches, including the number of hits, relevant findings, false positives, and any significant observations or trends identified during the search process, in documentation and investigative reports.
+
 #### 4.4 Data Correlation and Link Analysis
 - **Data Correlation**: Correlate information and data points across multiple sources to establish connections, relationships, and associations between disparate pieces of evidence.
 - **Link Analysis**: Visualize data correlations and relationships using link analysis tools or techniques to identify clusters, networks, and patterns indicative of organized criminal activity or collusion.
 - **Entity Recognition**: Identify key entities, such as individuals, organizations, or entities, involved in the investigation and analyze their interactions and communications for insight into their roles and motivations.
+
+4.4.1 Data Correlation
+
+    Data Source Integration: Integrate data from multiple sources, including logs, system records, network traffic, and user activity logs, into a unified dataset for correlation analysis.
+    Attribute Alignment: Align attributes and metadata fields across different data sources to enable correlation based on common identifiers, such as timestamps, user IDs, IP addresses, or transaction IDs.
+
+4.4.2 Correlation Rule Development
+
+    Rule Definition: Develop correlation rules or criteria based on investigative hypotheses, threat intelligence, and known attack patterns to identify relationships and dependencies between data elements.
+    Threshold Setting: Set threshold values and conditions for correlation rules, specifying criteria for determining the significance of correlations and filtering out noise or false positives.
+
+4.4.3 Correlation Analysis
+
+    Automated Correlation: Apply automated correlation techniques, such as statistical analysis, pattern recognition, or machine learning algorithms, to identify correlations and patterns within the dataset.
+    Manual Analysis: Conduct manual correlation analysis to validate automated findings, explore relationships not captured by automated methods, and gain deeper insights into complex data relationships.
+
+4.4.4 Link Analysis
+
+    Entity Identification: Identify entities of interest within the dataset, such as users, devices, applications, or network nodes, for link analysis.
+    Relationship Mapping: Map relationships and connections between entities using link analysis techniques, such as graph analysis, network mapping, or social network analysis, to visualize data interdependencies.
+
+4.4.5 Pattern Recognition
+
+    Pattern Identification: Identify patterns of behavior, communication, or activity within the dataset using correlation and link analysis results.
+    Anomaly Detection: Detect anomalies or deviations from normal patterns using pattern recognition techniques, such as deviation analysis, outlier detection, or trend analysis, to identify suspicious or malicious behavior.
+
+4.4.6 Contextualization and Enrichment
+
+    Contextual Data Integration: Integrate contextual data sources, such as threat intelligence feeds, system logs, user profiles, and organizational data, to enrich the dataset and provide additional context for correlation and link analysis.
+    Metadata Enrichment: Enrich dataset metadata with additional attributes, such as geolocation data, device characteristics, or user roles, to enhance correlation and link analysis capabilities.
+
+4.4.7 Visualization and Reporting
+
+    Graph Visualization: Visualize correlation and link analysis results using graph visualization techniques, such as node-link diagrams, force-directed layouts, or tree maps, to depict relationships and dependencies visually.
+    Interactive Dashboards: Create interactive dashboards or visual analytics tools to explore correlation and link analysis results dynamically, enabling stakeholders to interactively explore data relationships and insights.
+
+4.4.8 Iterative Analysis and Feedback
+
+    Iterative Analysis Process: Conduct iterative correlation and link analysis iterations based on feedback from stakeholders, refining analysis criteria, adjusting correlation rules, and exploring additional data sources as needed.
+    Stakeholder Engagement: Engage stakeholders in the analysis process, soliciting feedback on correlation and link analysis results, insights, and observations to validate findings and inform investigative decisions.
+
+4.4.9 Documentation and Reporting
+
+    Correlation Rules Documentation: Document correlation rules, criteria, and methodologies used for correlation and link analysis, including parameter settings, data sources, and analysis techniques, to maintain a record of analysis methodologies.
+    Analysis Findings Summary: Summarize the findings of correlation and link analysis, including identified correlations, relationships, patterns, and anomalies, in documentation and investigative reports to provide stakeholders with actionable insights and recommendations.
 
 #### 4.5 Artifact Examination
 - **File Analysis**: Examine files and documents extracted from collected data sources for metadata, signatures, and other indicators of authenticity, origin, and manipulation.
 - **Communication Analysis**: Analyze communications, such as emails, chat logs, and social media messages, for content, context, and sentiment analysis to uncover hidden meanings or intentions.
 - **Metadata Examination**: Scrutinize metadata associated with files, emails, and other digital artifacts for timestamps, authorship, and modification history to establish their authenticity and integrity.
 
+4.5.1 Artifact Identification
+
+    Artifact Enumeration: Identify and enumerate digital artifacts within the dataset, including file artifacts, system artifacts, network artifacts, and application artifacts, based on their relevance to the investigation.
+    Artifact Classification: Classify artifacts based on their type, category, and origin, such as file artifacts (documents, executables), system artifacts (registry entries, event logs), network artifacts (packets, connections), and application artifacts (browser history, chat logs).
+
+4.5.2 Artifact Extraction
+
+    Extraction Techniques: Employ extraction techniques and tools to extract artifacts from their storage or data sources, including file carving, data carving, memory imaging, packet capture, and log parsing.
+    Metadata Extraction: Extract metadata attributes associated with artifacts, such as file attributes, timestamps, file hashes, network headers, and application metadata, to provide contextual information for analysis.
+
+4.5.3 Artifact Analysis
+
+    Content Analysis: Analyze the content of extracted artifacts to identify relevant information, evidence, or indicators of interest, such as user activities, communication patterns, file contents, or system configurations.
+    Structure Analysis: Analyze the structure and format of artifacts to understand their organization, encoding, compression, or encryption methods, enabling proper interpretation and extraction of information.
+
+4.5.4 File Artifact Examination
+
+    File Metadata Analysis: Analyze file metadata attributes, such as file timestamps, file paths, file permissions, and file attributes, to establish file provenance, ownership, and usage patterns.
+    File Content Analysis: Examine file contents, including text, images, executables, and binary data, using specialized tools and techniques to identify embedded information, hidden content, or malicious payloads.
+
+4.5.5 System Artifact Examination
+
+    Registry Analysis: Analyze system registry entries, including registry keys, values, and hive files, to uncover system configuration settings, installed software, user activities, and system events.
+    Event Log Analysis: Analyze system event logs, such as Windows Event Logs, syslog files, or application logs, to trace system activities, user interactions, and security events relevant to the investigation.
+
+4.5.6 Network Artifact Examination
+
+    Network Packet Analysis: Analyze network packet captures to reconstruct network communications, identify network protocols, extract transmitted data, and detect suspicious or malicious activities, such as network intrusions or data exfiltration.
+    Network Connection Analysis: Analyze network connection logs, session logs, or firewall logs to trace network connections, identify source and destination hosts, ports, protocols, and traffic patterns, and detect anomalous or unauthorized connections.
+
+4.5.7 Application Artifact Examination
+
+    Browser History Analysis: Analyze web browser history artifacts, including browser cache, cookies, bookmarks, and browsing history, to reconstruct user web browsing activities, visited websites, and online interactions.
+    Chat Log Analysis: Analyze chat log artifacts from messaging applications, email clients, or social media platforms to reconstruct communication threads, identify conversation participants, and extract message content.
+
+4.5.8 Mobile Artifact Examination
+
+    Mobile Device Forensics: Conduct mobile device forensics to examine artifacts from mobile devices, including call logs, SMS messages, emails, contacts, geolocation data, and application data, to reconstruct user activities and communication patterns.
+    App Data Analysis: Analyze application data stored on mobile devices, including application databases, caches, and configuration files, to extract user-generated content, preferences, and interaction patterns.
+
+4.5.9 Documentation and Reporting
+
+    Artifact Examination Records: Document artifact examination activities, including artifact identification, extraction methods, analysis findings, and observations, to maintain a comprehensive record of examination processes and outcomes.
+    Analysis Findings Summary: Summarize the findings of artifact examination, including identified artifacts, relevant information, evidence, and conclusions drawn from the analysis, in documentation and investigative reports to provide stakeholders with actionable insights and recommendations.
+
 #### 4.6 Reporting and Documentation
 - **Findings Documentation**: Document all examination findings, observations, and conclusions in a structured and organized manner, referencing specific evidence and supporting documentation.
 - **Report Generation**: Generate comprehensive reports summarizing the examination and analysis process, including key findings, investigative insights, and recommendations for further action.
 - **Presentation Preparation**: Prepare presentations or briefings to communicate examination findings and analysis results to stakeholders, such as management, legal counsel, or regulatory authorities.
 
-By following this detailed process, the bank can conduct a thorough and systematic examination and analysis of digital evidence, uncovering relevant information and insights to support decision-making and investigative outcomes.
+4.6.1 Report Planning and Structure
 
-Certainly! Here's a detailed outline of the Reporting phase:
+    Report Scope Definition: Define the scope and objectives of the investigation report, including the purpose, audience, and intended use of the report.
+    Report Structure: Outline the structure and organization of the report, including sections, subsections, and content requirements, to ensure clarity, coherence, and completeness.
+
+4.6.2 Report Content
+
+    Executive Summary: Provide a concise summary of key findings, conclusions, and recommendations for decision-makers and stakeholders who may not have technical expertise.
+    Investigation Overview: Describe the background, context, and scope of the investigation, including the incident timeline, affected systems, and relevant stakeholders.
+    Evidence Analysis: Present detailed analysis of digital evidence, including artifact examination findings, correlation analysis results, and timeline reconstruction, to support investigative conclusions.
+    Findings and Observations: Summarize key findings, observations, and insights derived from the investigation, highlighting significant events, patterns, anomalies, and trends identified during analysis.
+    Conclusions and Recommendations: Formulate conclusions based on the analysis of digital evidence, correlation findings, and investigative insights, providing recommendations for remediation, mitigation, or further action.
+    Lessons Learned: Identify lessons learned from the investigation, including strengths, weaknesses, and areas for improvement in the organization's incident response, detection, and prevention capabilities.
+    Appendices: Include supplementary materials, such as raw data, forensic analysis reports, technical documentation, and supporting evidence, to provide additional context and detail for stakeholders.
+
+4.6.3 Report Formatting and Style
+
+    Clarity and Consistency: Ensure clarity and consistency in language, terminology, and formatting throughout the report to facilitate understanding and readability.
+    Visual Presentation: Incorporate visual elements, such as tables, charts, graphs, and diagrams, to enhance the presentation of complex information and data relationships.
+    Citations and References: Provide citations and references for sources of information, methodologies, and analysis techniques used in the investigation, ensuring transparency and credibility of findings.
+
+4.6.4 Report Review and Validation
+
+    Peer Review: Conduct peer review of the investigation report by independent experts or colleagues to validate the accuracy, completeness, and objectivity of findings and recommendations.
+    Quality Assurance: Perform quality assurance checks on the report content, structure, and formatting to ensure compliance with organizational standards, regulatory requirements, and best practices.
+
+4.6.5 Report Distribution and Communication
+
+    Stakeholder Engagement: Communicate investigation findings, conclusions, and recommendations to relevant stakeholders, including management, legal counsel, IT teams, and regulatory authorities, through formal presentations, meetings, or written communication.
+    Feedback Solicitation: Solicit feedback from stakeholders on the investigation report, addressing any questions, concerns, or requests for clarification to ensure alignment with stakeholders' needs and expectations.
+
+4.6.6 Report Retention and Archiving
+
+    Retention Policies: Adhere to established retention policies for investigation reports and documentation, specifying retention periods, storage locations, and access controls to ensure compliance with legal and regulatory requirements.
+    Archiving Procedures: Archive investigation reports and supporting documentation securely in long-term storage repositories, maintaining their integrity, accessibility, and confidentiality for future reference and review.
+
+4.6.7 Post-Investigation Actions
+
+    Remediation Recommendations: Implement recommendations provided in the investigation report to address identified vulnerabilities, mitigate risks, and improve the organization's security posture.
+    Incident Response Improvement: Incorporate lessons learned from the investigation into incident response procedures, detection mechanisms, and preventive controls to enhance future incident handling capabilities.
+    Training and Awareness: Provide training and awareness programs for staff members based on the findings and recommendations of the investigation report to improve security awareness and incident response readiness.
 
 ### 5. Reporting
 
