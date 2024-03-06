@@ -9,6 +9,8 @@ Certainly! Below is a detailed procedure for digital forensics within a large ba
 - **Inventory Assessment**: Identify and document all relevant digital devices and systems potentially involved in the investigation, including computers, servers, mobile devices, and network infrastructure.
 - **Chain of Custody**: Establish and maintain a secure chain of custody for each identified device to ensure the integrity of the evidence throughout the investigation process.
 
+
+
 ### 3. Secure Collection and Extraction of Data
 - **Collection Plan**: Develop a comprehensive plan for the collection and extraction of data from the identified devices, taking into account the type of data, storage locations, and potential risks to data integrity.
 - **Forensic Imaging**: Create forensic images of storage media using approved tools and techniques to preserve the original data and maintain its integrity.
