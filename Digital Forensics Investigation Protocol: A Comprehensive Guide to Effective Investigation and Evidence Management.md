@@ -108,6 +108,41 @@ Certainly! Here's a more detailed outline of the Identification of Devices phase
 - **Network Scanning**: Perform network scans to identify connected devices and systems within the bank's network infrastructure.
 - **Asset Management System**: Utilize the bank's asset management system or inventory databases to identify registered devices and their associated metadata, such as location, ownership, and configuration details.
 
+2.2.1 Scope Definition
+
+    Scope Identification: Define the scope of the asset discovery phase, including the types of assets to be identified, such as digital devices, network endpoints, servers, applications, and data repositories.
+    Objective Setting: Establish clear objectives for asset discovery, such as identifying all assets within the scope, determining their locations, configurations, and connections, and assessing their relevance to the investigation.
+
+2.2.2 Inventory Creation
+
+    Asset Identification: Develop a comprehensive inventory of digital assets within the scope of the investigation, including both hardware and software components, by leveraging tools, techniques, and manual inspection.
+    Asset Classification: Classify assets based on their type, function, importance, and relevance to the investigation, prioritizing critical assets for further analysis and examination.
+
+2.2.3 Network Mapping
+
+    Network Topology Analysis: Analyze network topology and architecture to map out the interconnectedness of assets, including devices, servers, switches, routers, and other network components.
+    IP Address Enumeration: Enumerate IP addresses and network ranges to identify active hosts, devices, and services on the network, using tools such as network scanners, port scanners, and discovery protocols.
+
+2.2.4 System Profiling
+
+    System Identification: Identify and profile individual systems and devices within the network, including their operating systems, hardware specifications, installed software, open ports, and services.
+    Configuration Analysis: Analyze system configurations and settings to identify potential vulnerabilities, misconfigurations, or security weaknesses that may pose risks to the investigation.
+
+2.2.5 Data Repository Identification
+
+    Data Source Enumeration: Identify data repositories, storage devices, and data sources containing potentially relevant information for the investigation, including file servers, databases, cloud storage, and backup systems.
+    Data Mapping: Map out the locations and structures of data repositories, documenting their contents, access controls, and permissions to facilitate data acquisition and analysis.
+
+2.2.6 Documentation and Reporting
+
+    Inventory Documentation: Document the results of asset discovery activities, including the inventory of identified assets, network maps, system profiles, and data repository information.
+    Reporting: Prepare a comprehensive report summarizing the findings of asset discovery, including an overview of identified assets, their characteristics, locations, and connections, to provide stakeholders with insights into the digital environment under investigation.
+
+2.2.7 Stakeholder Communication
+
+    Information Sharing: Share the results of asset discovery with relevant stakeholders, including investigators, incident responders, IT administrators, legal counsel, and management, to facilitate informed decision-making and planning for subsequent phases of the investigation.
+    Feedback Solicitation: Solicit feedback from stakeholders on the asset discovery findings, addressing any questions, concerns, or additional information needs to ensure alignment with investigative objectives and requirements.
+
 #### 2.3 Device Identification
 - **Physical Inspection**: Conduct physical inspections of relevant areas, such as data centers, server rooms, and employee workspaces, to identify devices not captured through automated methods.
 - **Labeling and Tagging**: Label and tag identified devices with unique identifiers to track their location and ownership throughout the investigation process.
