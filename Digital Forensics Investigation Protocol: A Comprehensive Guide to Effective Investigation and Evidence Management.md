@@ -72,6 +72,38 @@ Certainly! Here's a more detailed outline of the Identification of Devices phase
 - **Information Gathering**: Gather relevant information about the scope of the investigation, potential sources of evidence, and known or suspected incidents.
 - **Initial Inventory**: Conduct a preliminary inventory of digital devices and systems within the bank's environment, including computers, servers, mobile devices, and network infrastructure.
 
+2.1.1 Investigation Request Analysis
+
+    Request Review: Carefully review the request for digital forensic investigation, including any accompanying documentation or instructions provided by the requesting party.
+    Clarification: Seek clarification from the requesting party regarding the nature of the incident, specific concerns, and desired outcomes of the investigation.
+
+2.1.2 Case Acceptance Criteria
+
+    Case Evaluation: Assess the feasibility and suitability of accepting the investigation based on factors such as jurisdiction, available resources, expertise required, and alignment with organizational priorities.
+    Resource Allocation: Determine the availability of resources, including personnel, equipment, and budget, necessary to conduct the investigation effectively.
+
+2.1.3 Initial Case Assessment
+
+    Evidence Identification: Identify potential sources of digital evidence relevant to the investigation, including devices, systems, applications, and data repositories.
+    Preliminary Risk Analysis: Conduct a preliminary risk analysis to assess the potential impact and severity of the incident, considering factors such as data sensitivity, legal implications, and potential business impact.
+    Stakeholder Communication: Establish communication channels with relevant stakeholders, including incident responders, legal counsel, management, and external parties, to facilitate information sharing and coordination.
+
+2.1.4 Legal and Regulatory Considerations
+
+    Legal Consultation: Seek legal guidance and advice from internal or external legal counsel regarding legal and regulatory requirements applicable to the investigation, including data privacy laws, chain of custody protocols, and evidence admissibility standards.
+    Evidence Preservation: Ensure compliance with legal and regulatory obligations for preserving digital evidence, including obtaining necessary warrants or court orders, and adhering to established preservation procedures.
+
+2.1.5 Preliminary Planning
+
+    Investigation Plan Development: Develop an initial investigation plan outlining objectives, scope, methodology, and timelines for conducting the digital forensic investigation.
+    Resource Allocation: Allocate resources, including personnel, equipment, and budget, to support the investigation activities outlined in the preliminary plan.
+    Risk Mitigation Strategies: Identify potential risks and develop strategies to mitigate them, including contingency plans for handling unexpected challenges or obstacles during the investigation.
+
+2.1.6 Case Initiation
+
+    Case Documentation: Document the initiation of the investigation, including case details, key stakeholders, assigned personnel, and initial assessment findings, to establish a formal record of case commencement.
+    Case Tracking: Implement a case tracking system or software to monitor the progress of the investigation, track evidence, document actions taken, and maintain a chronological record of investigative activities.
+
 #### 2.2 Asset Discovery
 - **Network Scanning**: Perform network scans to identify connected devices and systems within the bank's network infrastructure.
 - **Asset Management System**: Utilize the bank's asset management system or inventory databases to identify registered devices and their associated metadata, such as location, ownership, and configuration details.
