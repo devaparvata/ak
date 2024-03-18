@@ -31,3 +31,22 @@ def reverse_hex_file(input_file, output_file):
 input_file = 'input.txt'  # Replace 'input.txt' with the name of your input file
 output_file = 'reversed.txt'  # Output file name
 reverse_hex_file(input_file, output_file)
+
+
+def get_choice():
+    options = ["Option 1", "Option 2"]
+    print("Choose one of the following options:")
+    for i, option in enumerate(options, 1):
+        print(f"{i}. {option}")
+    
+    while True:
+        choice = input("Enter your choice (1 or 2): ")
+        if choice in ['1', '2']:
+            return options[int(choice) - 1]
+        else:
+            print("Invalid choice. Please enter 1 or 2.")
+
+# Example usage:
+chosen_option = get_choice()
+print("You chose:", chosen_option)
+
