@@ -37,3 +37,24 @@ third_file_name = "reversed_" + second_file_name
 reversed_reversed_data = reverse_hex(reversed_data)
 save_to_file(reversed_reversed_data, third_file_name)
 print(f"Reversed hex value of {second_file_name} saved as {third_file_name}")
+
+import os
+
+def change_extension_to_txt(file_name):
+    # Split the file name and extension
+    base_name, extension = os.path.splitext(file_name)
+    # Change the extension to ".txt"
+    new_file_name = base_name + ".txt"
+    return new_file_name
+
+def get_file_name():
+    file_name = input("Enter the file name: ")
+    return file_name
+
+# Step 1: Get the file name from the user
+file_name = get_file_name()
+
+# Step 2: Extract the file extension and change it to ".txt"
+new_file_name = change_extension_to_txt(file_name)
+
+print(f"The new file name with extension changed to .txt is: {new_file_name}")
