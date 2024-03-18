@@ -58,3 +58,30 @@ file_name = get_file_name()
 new_file_name = change_extension_to_txt(file_name)
 
 print(f"The new file name with extension changed to .txt is: {new_file_name}")
+
+import magic
+
+def detect_mime_type(file_path):
+    mime = magic.Magic(mime=True)
+    return mime.from_file(file_path)
+
+def detect_file_extension(file_path):
+    mime = magic.Magic()
+    return mime.from_file(file_path)
+
+def get_file_path():
+    file_path = input("Enter the file path: ")
+    return file_path
+
+# Step 1: Get the file path from the user
+file_path = get_file_path()
+
+# Step 2: Detect the MIME type and the real file extension
+mime_type = detect_mime_type(file_path)
+real_extension = detect_file_extension(file_path)
+
+print("MIME type:", mime_type)
+print("Real file extension:", real_extension)
+
+
+
